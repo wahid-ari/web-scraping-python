@@ -35,7 +35,7 @@ for tr in trs:
     box = tr.findAll("td", {"width": "100%", "valign": "top"})
     link = box[0].a.get("href")
     books = box[0].a.select("span")
-    title = books[0].text.replace("á", "a").replace("í", "i")
+    title = books[0].text.replace("á", "a").replace("í", "i").replace('"', "'")
     authors = box[0].div.select("a")
     author = authors[0].text.replace('é', 'e')
     author_link = box[0].div.select("a")[0].get("href")
@@ -104,7 +104,8 @@ for p in pagination.findAll('a'):
             box = tr.findAll("td", {"width": "100%", "valign": "top"})
             link = box[0].a.get("href")
             books = box[0].a.select("span")
-            title = books[0].text.replace("á", "a").replace("í", "i")
+            title = books[0].text.replace("á", "a").replace(
+                "í", "i").replace('"', "'")
             authors = box[0].div.select("a")
             author = authors[0].text.replace('é', 'e')
             author_link = box[0].div.select("a")[0].get("href")
