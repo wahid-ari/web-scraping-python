@@ -15,8 +15,8 @@ page_soup = soup(page_html, "html.parser")
 
 # prepare CSV
 file = "pagination_detail_book.csv"
-header = "Index; Title; Author; ISBN; Language; Pages; Published; Genre; Rating; Score; Vote; Link; Author_Link; Image; Image_Small; Description \n"
-f = open(file, "w")
+header = "Index, Title, Author, ISBN, Language, Pages, Published, Genre, Rating, Score, Vote, Link, Author_Link, Image, Image_Small, Description \n"
+f = open(file, "w", encoding="utf-8")
 f.write(header)
 
 # index of product
@@ -62,7 +62,7 @@ for tr in trs:
     detail_layout = detail_page_soup.find(
         "div", {"class": "DetailsLayoutRightParagraph__widthConstrained"})
     book_description = detail_layout.text.strip().replace(
-        '.', '. ').replace('  ', ' ').replace(";", '').replace("\n", '')
+        '.', '. ').replace('  ', ' ').replace(";", '').replace("\n", '').replace(",", '*')
     # print(detail_layout.span.text)
     # print(detail_layout.contents)
     # print("description: ", book_description)
@@ -71,7 +71,7 @@ for tr in trs:
     book_total_pages = feature_layout.findAll(
         'p')[0].text.replace(" pages, Hardcover", '').replace(" pages, Paperback", '').replace(" pages, Kindle Edition", '').replace(" pages, ebook", '')
     book_published = feature_layout.findAll(
-        'p')[1].text.replace("First published ", '')
+        'p')[1].text.replace("First published ", '').replace(",", '')
     # print("pages: ", book_total_pages)
     # print("published: ", book_published)
     box_genre = detail_page_soup.find(
@@ -84,7 +84,7 @@ for tr in trs:
             all_genre_links_list.append(a.get('href'))
     # print(all_genre_list)
     # print(all_genre_links_list)
-    all_genre_string = ', '.join(all_genre_list)
+    all_genre_string = '* '.join(all_genre_list)
     # print(all_genre_string)
     box_book_detail = detail_page_soup.findAll(
         "script", {"type": "application/ld+json"})
@@ -99,7 +99,7 @@ for tr in trs:
     else:
         isbn = site_json.get("isbn")
     # print(isbn)
-    language = site_json.get("inLanguage").replace(';', ',')
+    language = site_json.get("inLanguage").replace(';', '*')
     # print(language)
 
     print("index: ", index)
@@ -114,21 +114,21 @@ for tr in trs:
     # print("image_small: ", image_small)
     print("\n")
 
-    f.write(str(index) + "; " +
-            title.replace(",", "") + "; " +
-            author + "; " +
-            isbn + "; " +
-            language + "; " +
-            book_total_pages + "; " +
-            book_published + "; " +
-            all_genre_string + "; " +
-            rating + "; " +
-            score + "; " +
-            voted + "; " +
-            "https://www.goodreads.com" + link + "; " +
-            author_link + "; " +
-            image + "; " +
-            image_small + "; " +
+    f.write(str(index) + ", " +
+            title.replace(",", "") + ", " +
+            author + ", " +
+            str(isbn) + ", " +
+            language + ", " +
+            book_total_pages + ", " +
+            book_published + ", " +
+            all_genre_string + ", " +
+            rating + ", " +
+            score + ", " +
+            voted + ", " +
+            "https://www.goodreads.com" + link + ", " +
+            author_link + ", " +
+            image + ", " +
+            image_small + ", " +
             book_description +
             "\n")
 
@@ -189,7 +189,7 @@ for p in pagination.findAll('a'):
             detail_layout = detail_page_soup.find(
                 "div", {"class": "DetailsLayoutRightParagraph__widthConstrained"})
             book_description = detail_layout.text.strip().replace(
-                '.', '. ').replace('  ', ' ').replace(";", '').replace("\n", '')
+                '.', '. ').replace('  ', ' ').replace(";", '').replace("\n", '').replace(",", '*')
             # print(detail_layout.span.text)
             # print(detail_layout.contents)
             # print("description: ", book_description)
@@ -198,7 +198,7 @@ for p in pagination.findAll('a'):
             book_total_pages = feature_layout.findAll(
                 'p')[0].text.replace(" pages, Hardcover", '').replace(" pages, Paperback", '').replace(" pages, Kindle Edition", '').replace(" pages, ebook", '')
             book_published = feature_layout.findAll(
-                'p')[1].text.replace("First published ", '')
+                'p')[1].text.replace("First published ", '').replace(",", '')
             # print("pages: ", book_total_pages)
             # print("published: ", book_published)
             box_genre = detail_page_soup.find(
@@ -211,7 +211,7 @@ for p in pagination.findAll('a'):
                     all_genre_links_list.append(a.get('href'))
             # print(all_genre_list)
             # print(all_genre_links_list)
-            all_genre_string = ', '.join(all_genre_list)
+            all_genre_string = '* '.join(all_genre_list)
             # print(all_genre_string)
             box_book_detail = detail_page_soup.findAll(
                 "script", {"type": "application/ld+json"})
@@ -226,7 +226,7 @@ for p in pagination.findAll('a'):
             else:
                 isbn = site_json.get("isbn")
             # print(isbn)
-            language = site_json.get("inLanguage").replace(';', ',')
+            language = site_json.get("inLanguage").replace(';', '*')
             # print(language)
 
             print("index: ", index)
@@ -241,21 +241,21 @@ for p in pagination.findAll('a'):
             # print("image_small: ", image_small)
             print("\n")
 
-            f.write(str(index) + "; " +
-                    title.replace(",", "") + "; " +
-                    author + "; " +
-                    isbn + "; " +
-                    language + "; " +
-                    book_total_pages + "; " +
-                    book_published + "; " +
-                    all_genre_string + "; " +
-                    rating + "; " +
-                    score + "; " +
-                    voted + "; " +
-                    "https://www.goodreads.com" + link + "; " +
-                    author_link + "; " +
-                    image + "; " +
-                    image_small + "; " +
+            f.write(str(index) + ", " +
+                    title.replace(",", "") + ", " +
+                    author + ", " +
+                    str(isbn) + ", " +
+                    language + ", " +
+                    book_total_pages + ", " +
+                    book_published + ", " +
+                    all_genre_string + ", " +
+                    rating + ", " +
+                    score + ", " +
+                    voted + ", " +
+                    "https://www.goodreads.com" + link + ", " +
+                    author_link + ", " +
+                    image + ", " +
+                    image_small + ", " +
                     book_description +
                     "\n")
 

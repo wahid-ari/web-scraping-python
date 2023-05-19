@@ -12,3 +12,7 @@ To open the csv:
 3. from text
 4. select delimeter
 5. semicolon ;
+
+**(*)** is **(,)**
+
+changing **(,)** to **(*)** because **(,)** was used as delimeter for column in CSV

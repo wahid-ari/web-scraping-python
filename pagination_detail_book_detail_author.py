@@ -15,7 +15,7 @@ page_soup = soup(page_html, "html.parser")
 
 # prepare CSV
 file = "pagination_detail_book_detail_author.csv"
-header = "Index; Title; Author; ISBN; Language; Pages; Published; Genre; Rating; Score; Vote; Link; Image; Image_Small; Description; Author_Link; Author_Image; Author_Born; Author_Web; Author_Bio \n"
+header = "Index, Title, Author, ISBN, Language, Pages, Published, Genre, Rating, Score, Vote, Link, Image, Image_Small, Description, Author_Link, Author_Image, Author_Born, Author_Web, Author_Bio \n"
 # f = open(file, "w")
 # Fix Error UnicodeEncodeError: 'charmap' codec can't encode characters in position 1184-1191: character maps to < undefined >
 f = open(file, "w", encoding="utf-8")
@@ -68,7 +68,7 @@ for tr in trs:
     detail_layout = detail_page_soup.find(
         "div", {"class": "DetailsLayoutRightParagraph__widthConstrained"})
     book_description = detail_layout.text.strip().replace(
-        '.', '. ').replace('  ', ' ').replace(";", '').replace("\n", '')
+        '.', '. ').replace('  ', ' ').replace(";", '').replace("\n", '').replace(",", '*')
     # print(detail_layout.span.text)
     # print(detail_layout.contents)
     # print("description: ", book_description)
@@ -77,7 +77,7 @@ for tr in trs:
     book_total_pages = feature_layout.findAll(
         'p')[0].text.replace(" pages, Hardcover", '').replace(" pages, Paperback", '').replace(" pages, Kindle Edition", '').replace(" pages, ebook", '')
     book_published = feature_layout.findAll(
-        'p')[1].text.replace("First published ", '')
+        'p')[1].text.replace("First published ", '').replace(",", '')
     # print("pages: ", book_total_pages)
     # print("published: ", book_published)
     box_genre = detail_page_soup.find(
@@ -90,7 +90,7 @@ for tr in trs:
             all_genre_links_list.append(a.get('href'))
     # print(all_genre_list)
     # print(all_genre_links_list)
-    all_genre_string = ', '.join(all_genre_list)
+    all_genre_string = '* '.join(all_genre_list)
     # print(all_genre_string)
     box_book_detail = detail_page_soup.findAll(
         "script", {"type": "application/ld+json"})
@@ -105,7 +105,7 @@ for tr in trs:
     else:
         isbn = site_json.get("isbn")
     # print(isbn)
-    language = site_json.get("inLanguage").replace(';', ',')
+    language = site_json.get("inLanguage").replace(';', '*')
     # print(language)
 
     # OPEN AUTHOR PAGE
@@ -125,7 +125,7 @@ for tr in trs:
         "div", {"class": "rightContainer"})
     # print(author_right_layout)
     author_born = author_right_layout.find(
-        "div", {"class": "dataTitle"}).next_sibling.text.replace("\n", '').replace('in ', '').strip()
+        "div", {"class": "dataTitle"}).next_sibling.text.replace("\n", '').replace('in ', '').replace(',', '*').strip()
     # print(author_born)
     is_author_web = author_right_layout.find("div", {"class": "dataItem"})
     author_web = ''
@@ -142,7 +142,7 @@ for tr in trs:
     author_bio = ''
     if (is_author_bio != None):
         author_bio = author_about_layout.find(
-            "span").text.replace("\n", '').replace(";", ',')
+            "span").text.replace("\n", '').replace(";", '-').replace(",", '*')
     elif (is_author_bio == None):
         author_bio = 'null'
     # Fix Error UnicodeEncodeError: 'charmap' codec can't encode characters in position 1184-1191: character maps to < undefined >
@@ -162,25 +162,25 @@ for tr in trs:
     # print("image_small: ", image_small)
     print("\n")
 
-    f.write(str(index) + "; " +
-            title.replace(",", "") + "; " +
-            author + "; " +
-            isbn + "; " +
-            language + "; " +
-            book_total_pages + "; " +
-            book_published + "; " +
-            all_genre_string + "; " +
-            rating + "; " +
-            score + "; " +
-            voted + "; " +
-            "https://www.goodreads.com" + link + "; " +
-            image + "; " +
-            image_small + "; " +
-            book_description + "; " +
-            author_link + "; " +
-            author_image + "; " +
-            author_born + "; " +
-            author_web + "; " +
+    f.write(str(index) + ", " +
+            title.replace(",", "") + ", " +
+            author + ", " +
+            str(isbn) + ", " +
+            language + ", " +
+            book_total_pages + ", " +
+            book_published + ", " +
+            all_genre_string + ", " +
+            rating + ", " +
+            score + ", " +
+            voted + ", " +
+            "https://www.goodreads.com" + link + ", " +
+            image + ", " +
+            image_small + ", " +
+            book_description + ", " +
+            author_link + ", " +
+            author_image + ", " +
+            author_born + ", " +
+            author_web + ", " +
             author_bio +
             "\n")
 
@@ -241,7 +241,7 @@ for p in pagination.findAll('a'):
             detail_layout = detail_page_soup.find(
                 "div", {"class": "DetailsLayoutRightParagraph__widthConstrained"})
             book_description = detail_layout.text.strip().replace(
-                '.', '. ').replace('  ', ' ').replace(";", '').replace("\n", '')
+                '.', '. ').replace('  ', ' ').replace(";", '').replace("\n", '').replace(",", '*')
             # print(detail_layout.span.text)
             # print(detail_layout.contents)
             # print("description: ", book_description)
@@ -250,7 +250,7 @@ for p in pagination.findAll('a'):
             book_total_pages = feature_layout.findAll(
                 'p')[0].text.replace(" pages, Hardcover", '').replace(" pages, Paperback", '').replace(" pages, Kindle Edition", '').replace(" pages, ebook", '')
             book_published = feature_layout.findAll(
-                'p')[1].text.replace("First published ", '')
+                'p')[1].text.replace("First published ", '').replace(",", '')
             # print("pages: ", book_total_pages)
             # print("published: ", book_published)
             box_genre = detail_page_soup.find(
@@ -263,7 +263,7 @@ for p in pagination.findAll('a'):
                     all_genre_links_list.append(a.get('href'))
             # print(all_genre_list)
             # print(all_genre_links_list)
-            all_genre_string = ', '.join(all_genre_list)
+            all_genre_string = '* '.join(all_genre_list)
             # print(all_genre_string)
             box_book_detail = detail_page_soup.findAll(
                 "script", {"type": "application/ld+json"})
@@ -278,7 +278,7 @@ for p in pagination.findAll('a'):
             else:
                 isbn = site_json.get("isbn")
             # print(isbn)
-            language = site_json.get("inLanguage").replace(';', ',')
+            language = site_json.get("inLanguage").replace(';', '*')
             # print(language)
 
             # OPEN AUTHOR PAGE
@@ -298,7 +298,7 @@ for p in pagination.findAll('a'):
                 "div", {"class": "rightContainer"})
             # print(author_right_layout)
             author_born = author_right_layout.find(
-                "div", {"class": "dataTitle"}).next_sibling.text.replace("\n", '').replace('in ', '').strip()
+                "div", {"class": "dataTitle"}).next_sibling.text.replace("\n", '').replace('in ', '').replace(',', '*').strip()
             # print(author_born)
             is_author_web = author_right_layout.find(
                 "div", {"class": "dataItem"})
@@ -316,7 +316,7 @@ for p in pagination.findAll('a'):
             author_bio = ''
             if (is_author_bio != None):
                 author_bio = author_about_layout.find(
-                    "span").text.replace("\n", '').replace(";", ',')
+                    "span").text.replace("\n", '').replace(";", '-').replace(",", '*')
             elif (is_author_bio == None):
                 author_bio = 'null'
             # Fix Error UnicodeEncodeError: 'charmap' codec can't encode characters in position 1184-1191: character maps to < undefined >
@@ -336,25 +336,25 @@ for p in pagination.findAll('a'):
             # print("image_small: ", image_small)
             print("\n")
 
-            f.write(str(index) + "; " +
-                    title.replace(",", "") + "; " +
-                    author + "; " +
-                    isbn + "; " +
-                    language + "; " +
-                    book_total_pages + "; " +
-                    book_published + "; " +
-                    all_genre_string + "; " +
-                    rating + "; " +
-                    score + "; " +
-                    voted + "; " +
-                    "https://www.goodreads.com" + link + "; " +
-                    image + "; " +
-                    image_small + "; " +
-                    book_description + "; " +
-                    author_link + "; " +
-                    author_image + "; " +
-                    author_born + "; " +
-                    author_web + "; " +
+            f.write(str(index) + ", " +
+                    title.replace(",", "") + ", " +
+                    author + ", " +
+                    str(isbn) + ", " +
+                    language + ", " +
+                    book_total_pages + ", " +
+                    book_published + ", " +
+                    all_genre_string + ", " +
+                    rating + ", " +
+                    score + ", " +
+                    voted + ", " +
+                    "https://www.goodreads.com" + link + ", " +
+                    image + ", " +
+                    image_small + ", " +
+                    book_description + ", " +
+                    author_link + ", " +
+                    author_image + ", " +
+                    author_born + ", " +
+                    author_web + ", " +
                     author_bio +
                     "\n")
 
