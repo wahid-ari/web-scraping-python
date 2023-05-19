@@ -42,7 +42,8 @@ for tr in trs:
     box = tr.findAll("td", {"width": "100%", "valign": "top"})
     link = box[0].a.get("href")
     books = box[0].a.select("span")
-    title = books[0].text.replace("á", "a").replace("í", "i").replace('"', "'").replace(';', " - ")
+    title = books[0].text.replace("á", "a").replace(
+        "í", "i").replace('"', "'").replace(';', " - ")
     authors = box[0].div.select("a")
     author = authors[0].text.replace('é', 'e')
     author_link = box[0].div.select("a")[0].get("href")
@@ -130,7 +131,7 @@ for tr in trs:
     author_web = ''
     if (is_author_web != None):
         author_web = author_right_layout.find(
-            "div", {"class": "dataItem"}).text.replace("\n", '').strip()
+            "a", {"itemprop": "url"}).text.replace("\n", '').strip()
     elif (is_author_web == None):
         author_web = "null"
     # print(author_web)
@@ -140,7 +141,8 @@ for tr in trs:
     # print(is_author_bio)
     author_bio = ''
     if (is_author_bio != None):
-        author_bio = author_about_layout.find("span").text.replace("\n", '')
+        author_bio = author_about_layout.find(
+            "span").text.replace("\n", '').replace(";", ',')
     elif (is_author_bio == None):
         author_bio = 'null'
     # Fix Error UnicodeEncodeError: 'charmap' codec can't encode characters in position 1184-1191: character maps to < undefined >
@@ -303,7 +305,7 @@ for p in pagination.findAll('a'):
             author_web = ''
             if (is_author_web != None):
                 author_web = author_right_layout.find(
-                    "div", {"class": "dataItem"}).text.replace("\n", '').strip()
+                    "a", {"itemprop": "url"}).text.replace("\n", '').strip()
             elif (is_author_web == None):
                 author_web = "null"
             # print(author_web)
@@ -313,7 +315,8 @@ for p in pagination.findAll('a'):
             # print(is_author_bio)
             author_bio = ''
             if (is_author_bio != None):
-                author_bio = author_about_layout.find("span").text.replace("\n", '')
+                author_bio = author_about_layout.find(
+                    "span").text.replace("\n", '').replace(";", ',')
             elif (is_author_bio == None):
                 author_bio = 'null'
             # Fix Error UnicodeEncodeError: 'charmap' codec can't encode characters in position 1184-1191: character maps to < undefined >
