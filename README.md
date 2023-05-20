@@ -16,3 +16,6 @@ To open the csv:
 **(*)** is **(,)**
 
 changing **(,)** to **(*)** because **(,)** was used as delimeter for column in CSV
+
+Convert CSV file in best book ever directory to JSON using:
+https://csvjson.com/csv2json
