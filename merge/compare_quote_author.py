@@ -14,16 +14,21 @@ for quote in quotes:
     print(quote["name"])
     for author in authors:
         if (quote["name"].lower() == author["name"].lower()):
+            # first, remove last comma in tags string (a, b,) > (a, b)
+            # then remove space between each string (a, b) > (a,b)
+            # finally split by comma to make list (a,b) > ([a,b])
+            tags_array = quote["tags"][:-1].replace(' ', '').split(',')
             quote_author.append({
                 "id": quote["id"],
                 "author_id": author["id"],
                 "quote": quote["quote"],
-                "tags": quote["tags"]
+                "tags": quote["tags"],
+                "tags_array": tags_array
             })
             f.write(str(quote["id"]) + ", " +
                     str(author["id"]) + ", " +
-                    str(quote["quote"]).replace(',','*') + ", " +
-                    str(quote["tags"]).replace(',','*') + 
+                    str(quote["quote"]).replace(',', '*') + ", " +
+                    str(quote["tags"]).replace(',', '*') +
                     "\n")
 
 with open("merge_quote_and_author.json", "w") as outfile:

@@ -4,7 +4,7 @@ from book_and_quote_author import authors
 
 # prepare CSV
 file = "merge_book_and_author.csv"
-header = "id, author_id, title, isbn, language, pages, published, genre, rating, score, vote, link, image, image_small, description \n"
+header = "id, author_id, title, isbn, language, pages, published, genre, rating, score, vote, link, image, image_small, description, genre_array \n"
 f = open(file, "w", encoding="utf-8")
 f.write(header)
 
@@ -13,6 +13,9 @@ book_author = []
 for book in books:
     for author in authors:
         if (book["author"].lower() == author["name"].lower()):
+            # remove space between each string (a, b) > (a,b)
+            # finally split by comma to make list (a,b) > ([a,b])
+            genre_array = book["genre"].replace(', ', ',').split(',')
             book_author.append({
                 "id": book["id"],
                 "author_id": author["id"],
@@ -28,7 +31,8 @@ for book in books:
                 "link": book["link"],
                 "image": book["image"],
                 "image_small": book["image_small"],
-                "description": book["description"]
+                "description": book["description"],
+                "genre_array": genre_array,
             })
             f.write(str(book["id"]) + ", " +
                     str(author["id"]) + ", " +
