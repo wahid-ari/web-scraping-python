@@ -3,9 +3,9 @@ from books import books
 from book_and_quote_author import authors
 
 # prepare CSV
-file = "merge_book_and_author.csv"
+path = "merge/merge_book_and_author"
 header = "id, author_id, title, isbn, language, pages, published, genre, rating, score, vote, link, image, image_small, description, genre_array \n"
-f = open(file, "w", encoding="utf-8")
+f = open(f'{path}{".csv"}', "w", encoding="utf-8")
 f.write(header)
 
 book_author = []
@@ -51,8 +51,8 @@ for book in books:
                     str(book["description"]).replace(',', '*') + ", " +
                     "\n")
 
-with open("merge_book_and_author.json", "w") as outfile:
-    json.dump(book_author, outfile)
+with open(f'{path}{".json"}', "w") as outfile:
+    json.dump(book_author, outfile, indent=4)
 
 for item in book_author:
     print(item["id"])
