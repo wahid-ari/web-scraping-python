@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Love",
+        "link": "https://www.goodreads.com/quotes/tag/love"
+    },
+    {
+        "id": 2,
+        "name": "Life",
+        "link": "https://www.goodreads.com/quotes/tag/life"
+    },
+    {
+        "id": 3,
+        "name": "Inspirational",
+        "link": "https://www.goodreads.com/quotes/tag/inspirational"
+    },
+    {
+        "id": 4,
+        "name": "Humor",
+        "link": "https://www.goodreads.com/quotes/tag/humor"
+    },
+    {
+        "id": 5,
+        "name": "Philosophy",
+        "link": "https://www.goodreads.com/quotes/tag/philosophy"
+    },
+    {
+        "id": 6,
+        "name": "God",
+        "link": "https://www.goodreads.com/quotes/tag/god"
+    },
+    {
+        "id": 7,
+        "name": "Motivation",
+        "link": "https://www.goodreads.com/quotes/tag/motivation"
+    },
+    {
+        "id": 8,
+        "name": "Truth",
+        "link": "https://www.goodreads.com/quotes/tag/truth"
+    },
+    {
+        "id": 9,
+        "name": "Wisdom",
+        "link": "https://www.goodreads.com/quotes/tag/wisdom"
+    },
+    {
+        "id": 10,
+        "name": "Romance",
+        "link": "https://www.goodreads.com/quotes/tag/romance"
+    },
+    {
+        "id": 11,
+        "name": "Poetry",
+        "link": "https://www.goodreads.com/quotes/tag/poetry"
+    },
+    {
+        "id": 12,
+        "name": "Death",
+        "link": "https://www.goodreads.com/quotes/tag/death"
+    },
+    {
+        "id": 13,
+        "name": "Happiness",
+        "link": "https://www.goodreads.com/quotes/tag/happiness"
+    },
+    {
+        "id": 14,
+        "name": "Hope",
+        "link": "https://www.goodreads.com/quotes/tag/hope"
+    },
+    {
+        "id": 15,
+        "name": "Faith",
+        "link": "https://www.goodreads.com/quotes/tag/faith"
+    },
+    {
+        "id": 16,
+        "name": "Life Lessons",
+        "link": "https://www.goodreads.com/quotes/tag/life-lessons"
+    },
+    {
+        "id": 17,
+        "name": "Inspiration",
+        "link": "https://www.goodreads.com/quotes/tag/inspiration"
+    },
+    {
+        "id": 18,
+        "name": "Writing",
+        "link": "https://www.goodreads.com/quotes/tag/writing"
+    },
+    {
+        "id": 19,
+        "name": "Motivational",
+        "link": "https://www.goodreads.com/quotes/tag/motivational"
+    },
+    {
+        "id": 20,
+        "name": "Religion",
+        "link": "https://www.goodreads.com/quotes/tag/religion"
+    },
+    {
+        "id": 21,
+        "name": "Spirituality",
+        "link": "https://www.goodreads.com/quotes/tag/spirituality"
+    },
+    {
+        "id": 22,
+        "name": "Relationships",
+        "link": "https://www.goodreads.com/quotes/tag/relationships"
+    },
+    {
+        "id": 23,
+        "name": "Success",
+        "link": "https://www.goodreads.com/quotes/tag/success"
+    },
+    {
+        "id": 24,
+        "name": "Life",
+        "link": "https://www.goodreads.com/quotes/tag/life-quotes"
+    },
+    {
+        "id": 25,
+        "name": "Love",
+        "link": "https://www.goodreads.com/quotes/tag/love-quotes"
+    },
+    {
+        "id": 26,
+        "name": "Time",
+        "link": "https://www.goodreads.com/quotes/tag/time"
+    },
+    {
+        "id": 27,
+        "name": "Science",
+        "link": "https://www.goodreads.com/quotes/tag/science"
+    },
+    {
+        "id": 28,
+        "name": "Knowledge",
+        "link": "https://www.goodreads.com/quotes/tag/knowledge"
+    }
+]

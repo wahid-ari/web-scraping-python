@@ -4,9 +4,9 @@ from book_and_quote_author import authors
 
 # prepare CSV
 path = "merge/merge_book_and_author"
-header = "id, author_id, title, isbn, language, pages, published, genre, rating, score, vote, link, image, image_small, description, genre_array \n"
-f = open(f'{path}{".csv"}', "w", encoding="utf-8")
-f.write(header)
+# header = "id, author_id, title, isbn, language, pages, published, genre, rating, score, vote, link, image, image_small, description, genre_array \n"
+# f = open(f'{path}{".csv"}', "w", encoding="utf-8")
+# f.write(header)
 
 book_author = []
 
@@ -34,22 +34,22 @@ for book in books:
                 "description": book["description"],
                 "genre_array": genre_array,
             })
-            f.write(str(book["id"]) + ", " +
-                    str(author["id"]) + ", " +
-                    str(book["title"]) + ", " +
-                    str(book["isbn"]) + ", " +
-                    str(book["language"]) + ", " +
-                    str(book["pages"]) + ", " +
-                    str(book["published"]) + ", " +
-                    str(book["genre"]).replace(',','*') + ", " +
-                    str(book["rating"]) + ", " +
-                    str(book["score"]) + ", " +
-                    str(book["vote"]) + ", " +
-                    str(book["link"]) + ", " +
-                    str(book["image"]) + ", " +
-                    str(book["image_small"]) + ", " +
-                    str(book["description"]).replace(',', '*') + ", " +
-                    "\n")
+            # f.write(str(book["id"]) + ", " +
+            #         str(author["id"]) + ", " +
+            #         str(book["title"]) + ", " +
+            #         str(book["isbn"]) + ", " +
+            #         str(book["language"]) + ", " +
+            #         str(book["pages"]) + ", " +
+            #         str(book["published"]) + ", " +
+            #         str(book["genre"]).replace(',','*') + ", " +
+            #         str(book["rating"]) + ", " +
+            #         str(book["score"]) + ", " +
+            #         str(book["vote"]) + ", " +
+            #         str(book["link"]) + ", " +
+            #         str(book["image"]) + ", " +
+            #         str(book["image_small"]) + ", " +
+            #         str(book["description"]).replace(',', '*') + ", " +
+            #         "\n")
 
 with open(f'{path}{".json"}', "w") as outfile:
     json.dump(book_author, outfile, indent=4)
@@ -60,4 +60,4 @@ for item in book_author:
     print(item["title"])
     print("\n")
 
-f.close()
+# f.close()
