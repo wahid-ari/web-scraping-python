@@ -76,8 +76,8 @@
     },
     {
         "id": 16,
-        "name": "Life Lessons",
-        "link": "https://www.goodreads.com/quotes/tag/life-lessons"
+        "name": "Knowledge",
+        "link": "https://www.goodreads.com/quotes/tag/knowledge"
     },
     {
         "id": 17,
@@ -116,27 +116,12 @@
     },
     {
         "id": 24,
-        "name": "Life",
-        "link": "https://www.goodreads.com/quotes/tag/life-quotes"
-    },
-    {
-        "id": 25,
-        "name": "Love",
-        "link": "https://www.goodreads.com/quotes/tag/love-quotes"
-    },
-    {
-        "id": 26,
         "name": "Time",
         "link": "https://www.goodreads.com/quotes/tag/time"
     },
     {
-        "id": 27,
+        "id": 25,
         "name": "Science",
         "link": "https://www.goodreads.com/quotes/tag/science"
-    },
-    {
-        "id": 28,
-        "name": "Knowledge",
-        "link": "https://www.goodreads.com/quotes/tag/knowledge"
     }
 ]

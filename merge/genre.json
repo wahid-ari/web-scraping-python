@@ -56,117 +56,97 @@
   },
   {
     "id": 12,
-    "name": "Graphic Novels",
-    "link": "https://www.goodreads.com/genres/graphic-novels"
-  },
-  {
-    "id": 13,
-    "name": "Historical Fiction",
-    "link": "https://www.goodreads.com/genres/historical-fiction"
-  },
-  {
-    "id": 14,
     "name": "History",
     "link": "https://www.goodreads.com/genres/history"
   },
   {
-    "id": 15,
+    "id": 13,
     "name": "Horror",
     "link": "https://www.goodreads.com/genres/horror"
   },
   {
-    "id": 16,
+    "id": 14,
     "name": "Humor and Comedy",
     "link": "https://www.goodreads.com/genres/humor-and-comedy"
   },
   {
-    "id": 17,
+    "id": 15,
     "name": "Manga",
     "link": "https://www.goodreads.com/genres/manga"
   },
   {
-    "id": 18,
+    "id": 16,
     "name": "Memoir",
     "link": "https://www.goodreads.com/genres/memoir"
   },
   {
-    "id": 19,
+    "id": 17,
     "name": "Music",
     "link": "https://www.goodreads.com/genres/music"
   },
   {
-    "id": 20,
+    "id": 18,
     "name": "Mystery",
     "link": "https://www.goodreads.com/genres/mystery"
   },
   {
-    "id": 21,
+    "id": 19,
     "name": "Nonfiction",
     "link": "https://www.goodreads.com/genres/non-fiction"
   },
   {
-    "id": 22,
+    "id": 20,
     "name": "Paranormal",
     "link": "https://www.goodreads.com/genres/paranormal"
   },
   {
-    "id": 23,
+    "id": 21,
     "name": "Philosophy",
     "link": "https://www.goodreads.com/genres/philosophy"
   },
   {
-    "id": 24,
+    "id": 22,
     "name": "Poetry",
     "link": "https://www.goodreads.com/genres/poetry"
   },
   {
-    "id": 25,
+    "id": 23,
     "name": "Psychology",
     "link": "https://www.goodreads.com/genres/psychology"
   },
   {
-    "id": 26,
+    "id": 24,
     "name": "Religion",
     "link": "https://www.goodreads.com/genres/religion"
   },
   {
-    "id": 27,
+    "id": 25,
     "name": "Romance",
     "link": "https://www.goodreads.com/genres/romance"
   },
   {
-    "id": 28,
+    "id": 26,
     "name": "Science",
     "link": "https://www.goodreads.com/genres/science"
   },
   {
-    "id": 29,
-    "name": "Science Fiction",
-    "link": "https://www.goodreads.com/genres/science-fiction"
-  },
-  {
-    "id": 30,
+    "id": 27,
     "name": "Spirituality",
     "link": "https://www.goodreads.com/genres/spirituality"
   },
   {
-    "id": 31,
+    "id": 28,
     "name": "Sports",
     "link": "https://www.goodreads.com/genres/sports"
   },
   {
-    "id": 32,
+    "id": 29,
     "name": "Thriller",
     "link": "https://www.goodreads.com/genres/thriller"
   },
   {
-    "id": 33,
+    "id": 30,
     "name": "Travel",
     "link": "https://www.goodreads.com/genres/travel"
-  },
-  {
-    "id": 34,
-    "name": "Young Adult",
-    "link": "https://www.goodreads.com/genres/young-adult"
   }
 ]
