@@ -16,7 +16,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052._SX50_.jpg",
         "description": "Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning?In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before\u2014and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weight survival against humanity and life against love.",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Dystopia",
             "Fantasy",
@@ -43,7 +42,6 @@ books = [
         "description": "Harry Potter is about to start his fifth year at Hogwarts School of Witchcraft and Wizardry. Unlike most schoolboys, Harry never enjoys his summer holidays, but this summer is even worse than usual. The Dursleys, of course, are making his life a misery, but even his best friends, Ron and Hermione, seem to be neglecting him. Harry has had enough. He is beginning to think he must do something, anything, to change his situation, when the summer holidays come to an end in a very dramatic fashion. What Harry is about to discover in his new year at Hogwarts will turn his world upside down. . .",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Magic",
             "Childrens",
@@ -99,7 +97,6 @@ books = [
             "Historical Fiction",
             "School",
             "Literature",
-            "Young Adult",
             "Historical"
         ]
     },
@@ -122,7 +119,6 @@ books = [
         "genre_array": [
             "Historical Fiction",
             "Fiction",
-            "Young Adult",
             "Historical",
             "Classics",
             "War",
@@ -147,7 +143,6 @@ books = [
         "description": "About three things I was absolutely positive. First, Edward was a vampire. Second, there was a part of him\u2014and I didn't know how dominant that part might be\u2014that thirsted for my blood. And third, I was unconditionally and irrevocably in love with him. Deeply seductive and extraordinarily suspenseful, Twilight is a love story with bite.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Romance",
             "Fiction",
             "Vampires",
@@ -226,7 +221,6 @@ books = [
         "genre_array": [
             "Fantasy",
             "Classics",
-            "Young Adult",
             "Childrens",
             "Christian",
             "Adventure",
@@ -250,7 +244,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085._SX50_.jpg",
         "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten. Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.",
         "genre_array": [
-            "Young Adult",
             "Romance",
             "Fiction",
             "Contemporary",
@@ -307,7 +300,6 @@ books = [
             "Picture Books",
             "Classics",
             "Poetry",
-            "Young Adult",
             "Fantasy"
         ]
     },
@@ -382,7 +374,6 @@ books = [
         "genre_array": [
             "Fantasy",
             "Fiction",
-            "Young Adult",
             "Magic",
             "Childrens",
             "Middle Grade",
@@ -432,7 +423,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650033115i/22628._SX50_.jpg",
         "description": "standing on the fringes of life. . . offers a unique perspective. But there comes a time to seewhat it looks like from the dance floor. This haunting novel about the dilemma of passivity vs. passion marks the stunning debut of a provocative new voice in contemporary fiction: The Perks of Being A WALLFLOWERThis is the story of what it's like to grow up in high school. More intimate than a diary, Charlie's letters are singular and unique, hilarious and devastating. We may not know where he lives. We may not know to whom he is writing. All we know is the world he shares. Caught between trying to live his life and trying to run from it puts him on a strange course through uncharted territory. The world of first dates and mixed tapes, family dramas and new friends. The world of sex, drugs, and The Rocky Horror Picture Show, when all one requires is that the perfect song on that perfect drive to feel infinite. Through Charlie, Stephen Chbosky has created a deeply affecting coming-of-age story, a powerful novel that will spirit you back to those wild and poignant roller coaster days known as growing up. (back cover)",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Contemporary",
             "Classics",
@@ -514,7 +504,6 @@ books = [
             "Fantasy",
             "Fiction",
             "Childrens",
-            "Young Adult",
             "Literature",
             "Adventure"
         ]
@@ -589,7 +578,6 @@ books = [
         "description": "Alternate cover for this ISBN can be found herePercy Jackson is a good kid, but he can't seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse - Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him. When Percy's mom finds out, she knows it's time that he knew the truth about where he came from, and that he go to the one place he'll be safe. She sends Percy to Camp Half Blood, a summer camp for demigods (on Long Island), where he learns that the father he never knew is Poseidon, God of the Sea. Soon a mystery unfolds and together with his friends\u2014one a satyr and the other the demigod daughter of Athena - Percy sets out on a quest across the United States to reach the gates of the Underworld (located in a recording studio in Hollywood) and prevent a catastrophic war between the gods.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Mythology",
             "Fiction",
             "Middle Grade",
@@ -614,7 +602,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037._SY75_.jpg",
         "description": "In Beatrice Prior's dystopian Chicago world, society is divided into five factions, each dedicated to the cultivation of a particular virtue\u2014Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is\u2014she can't have both. So she makes a choice that surprises everyone, including herself. During the highly competitive initiation that follows, Beatrice renames herself Tris and struggles alongside her fellow initiates to live out the choice they have made. Together they must undergo extreme physical tests of endurance and intense psychological simulations, some with devastating consequences. As initiation transforms them all, Tris must determine who her friends really are\u2014and where, exactly, a romance with a sometimes fascinating, sometimes exasperating boy fits into the life she's chosen. But Tris also has a secret, one she's kept hidden from everyone because she's been warned it can mean death. And as she discovers unrest and growing conflict that threaten to unravel her seemingly perfect society, she also learns that her secret might help her save those she loves . . . or it might destroy her.",
         "genre_array": [
-            "Young Adult",
             "Dystopia",
             "Fantasy",
             "Fiction",
@@ -694,7 +681,6 @@ books = [
         "genre_array": [
             "Classics",
             "Fiction",
-            "Young Adult",
             "School",
             "Literature",
             "Dystopia",
@@ -746,7 +732,6 @@ books = [
         "genre_array": [
             "Classics",
             "Fiction",
-            "Young Adult",
             "Historical Fiction",
             "Childrens",
             "Middle Grade",
@@ -771,7 +756,6 @@ books = [
         "description": "When fifteen-year-old Clary Fray heads out to the Pandemonium Club in New York City, she hardly expects to witness a murder\u2015 much less a murder committed by three teenagers covered with strange tattoos and brandishing bizarre weapons. Then the body disappears into thin air. It's hard to call the police when the murderers are invisible to everyone else and when there is nothing\u2015not even a smear of blood\u2015to show that a boy has died. Or was he a boy?This is Clary's first meeting with the Shadowhunters, warriors dedicated to ridding the earth of demons. It's also her first encounter with Jace, a Shadowhunter who looks a little like an angel and acts a lot like a jerk. Within twenty-four hours Clary is pulled into Jace's world with a vengeance when her mother disappears and Clary herself is attacked by a demon. But why would demons be interested in ordinary mundanes like Clary and her mother? And how did Clary suddenly get the Sight? The Shadowhunters would like to know. . .",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Paranormal",
             "Romance",
             "Urban Fantasy",
@@ -850,7 +834,6 @@ books = [
         "genre_array": [
             "Science Fiction",
             "Fiction",
-            "Young Adult",
             "Fantasy",
             "Classics",
             "Science Fiction Fantasy",
@@ -878,7 +861,6 @@ books = [
             "Fiction",
             "Childrens",
             "Fantasy",
-            "Young Adult",
             "Middle Grade",
             "Animals"
         ]
@@ -980,7 +962,6 @@ books = [
         "genre_array": [
             "Classics",
             "Fiction",
-            "Young Adult",
             "Literature",
             "School",
             "Novels",
@@ -1139,7 +1120,6 @@ books = [
             "Fiction",
             "Romance",
             "Humor",
-            "Young Adult",
             "Adventure"
         ]
     },
@@ -1163,7 +1143,6 @@ books = [
             "Classics",
             "Fiction",
             "Childrens",
-            "Young Adult",
             "Historical Fiction",
             "Middle Grade",
             "Fantasy"
@@ -1213,7 +1192,6 @@ books = [
         "description": "The Outsiders is about two weeks in the life of a 14-year-old boy. The novel tells the story of Ponyboy Curtis and his struggles with right and wrong in a society in which he believes that he is an outsider. According to Ponyboy, there are two kinds of people in the world: greasers and socs. A soc (short for \"social\") has money, can get away with just about anything, and has an attitude longer than a limousine. A greaser, on the other hand, always lives on the outside and needs to watch his back. Ponyboy is a greaser, and he's always been proud of it, even willing to rumble against a gang of socs for the sake of his fellow greasers--until one terrible night when his friend Johnny kills a soc. The murder gets under Ponyboy's skin, causing his bifurcated world to crumble and teaching him that pain feels the same whether a soc or a greaser. Librarian note: This record is for one of the three editions published with different covers and with ISBN 0-140-38572-X / 978-0-14-038572-4. The records are for the 1988 cover (this record), the 1995 cover, and the 2008 cover which is also the current in-print cover.",
         "genre_array": [
             "Classics",
-            "Young Adult",
             "Fiction",
             "School",
             "Read For School",
@@ -1241,7 +1219,6 @@ books = [
             "Fantasy",
             "Fiction",
             "Classics",
-            "Young Adult",
             "Science Fiction",
             "Childrens",
             "Middle Grade"
@@ -1293,7 +1270,6 @@ books = [
             "Classics",
             "Fiction",
             "Historical Fiction",
-            "Young Adult",
             "Romance",
             "Historical",
             "Literature"
@@ -1346,7 +1322,6 @@ books = [
             "Fiction",
             "Historical Fiction",
             "Literature",
-            "Young Adult",
             "Adventure",
             "School"
         ]
@@ -1370,7 +1345,6 @@ books = [
         "genre_array": [
             "Fiction",
             "Mystery",
-            "Young Adult",
             "Contemporary",
             "Fantasy",
             "Crime",
@@ -1577,7 +1551,6 @@ books = [
         "description": "Harry has been burdened with a dark, dangerous and seemingly impossible task: that of locating and destroying Voldemort's remaining Horcruxes. Never has Harry felt so alone, or faced a future so full of shadows. But Harry must somehow find within himself the strength to complete the task he has been given. He must leave the warmth, safety and companionship of The Burrow and follow without fear or hesitation the inexorable path laid out for him. . . In this final, seventh installment of the Harry Potter series, J. K. Rowling unveils in spectacular fashion the answers to the many questions that have been so eagerly awaited.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Magic",
             "Childrens",
@@ -1602,7 +1575,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368i/3636._SY75_.jpg",
         "description": "At the age of twelve, Jonas, a young boy from a seemingly utopian, futuristic world, is singled out to receive special training from The Giver, who alone holds the memories of the true joys and pain of life.",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Classics",
             "Dystopia",
@@ -1734,7 +1706,6 @@ books = [
         "genre_array": [
             "Fantasy",
             "Fiction",
-            "Young Adult",
             "Magic",
             "Childrens",
             "Middle Grade",
@@ -1841,7 +1812,6 @@ books = [
             "Classics",
             "Fantasy",
             "Middle Grade",
-            "Young Adult",
             "Humor"
         ]
     },
@@ -1917,7 +1887,6 @@ books = [
             "Classics",
             "Fiction",
             "Fantasy",
-            "Young Adult",
             "Animals",
             "Childrens",
             "Adventure"
@@ -2099,7 +2068,6 @@ books = [
             "Fiction",
             "Contemporary",
             "Chick Lit",
-            "Young Adult",
             "Drama",
             "Adult",
             "Adult Fiction"
@@ -2203,7 +2171,6 @@ books = [
             "Classics",
             "Fiction",
             "Historical Fiction",
-            "Young Adult",
             "Coming Of Age",
             "Historical",
             "New York"
@@ -2304,7 +2271,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361098973i/345627._SY75_.jpg",
         "description": "Only a true best friend can protect you from your immortal enemies. . . Lissa Dragomir is a Moroi princess: a mortal vampire with a rare gift for harnessing the earth's magic. She must be protected at all times from Strigoi the fiercest vampires\u2014the ones who never die. The powerful blend of human and vampire blood that flows through Rose Hathaway, Lissa's best friend, makes her a dhampir. Rose is dedicated to a dangerous life of protecting Lissa from the Strigoi, who are hell-bent on making Lissa one of them. After two years of freedom, Rose and Lissa are caught and dragged back to St. Vladimir's Academy, a school for vampire royalty and their guardians-to-be, hidden in the deep forests of Montana. But inside the iron gates, life is even more fraught with danger. . . and the Strigoi are always close by. Rose and Lissa must navigate their dangerous world, confront the temptations of forbidden love, and never once let their guard down, lest the evil undead make Lissa one of them forever. . .",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Vampires",
             "Paranormal",
@@ -2357,7 +2323,6 @@ books = [
         "description": "Lyra is rushing to the cold, far North, where witch clans and armored bears rule. North, where the Gobblers take the children they steal--including her friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge to a parallel world. Can one small girl make a difference in such great and terrible endeavors? This is Lyra: a savage, a schemer, a liar, and as fierce and true a champion as Roger or Asriel could want--but what Lyra doesn't know is that to help one of them will be to betray the other.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Childrens",
             "Adventure",
@@ -2439,7 +2404,6 @@ books = [
             "Historical Fiction",
             "School",
             "Literature",
-            "Young Adult",
             "Historical"
         ]
     },
@@ -2669,7 +2633,6 @@ books = [
         "description": "It is the summer holidays and soon Harry Potter will be starting his fourth year at Hogwarts School of Witchcraft and Wizardry. Harry is counting the days: there are new spells to be learnt, more Quidditch to be played, and Hogwarts castle to continue exploring. But Harry needs to be careful - there are unexpected dangers lurking. . .",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Magic",
             "Childrens",
@@ -2799,7 +2762,6 @@ books = [
         "description": "It is the middle of the summer, but there is an unseasonal mist pressing against the windowpanes. Harry Potter is waiting nervously in his bedroom at the Dursleys' house in Privet Drive for a visit from Professor Dumbledore himself. One of the last times he saw the Headmaster was in a fierce one-to-one duel with Lord Voldemort, and Harry can't quite believe that Professor Dumbledore will actually appear at the Dursleys' of all places. Why is the Professor coming to visit him now? What is it that cannot wait until Harry returns to Hogwarts in a few weeks' time? Harry's sixth year at Hogwarts has already got off to an unusual start, as the worlds of Muggle and magic start to intertwine. . .",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Magic",
             "Childrens",
@@ -2825,7 +2787,6 @@ books = [
         "description": "In a time when Shadowhunters are barely winning the fight against the forces of darkness, one battle will change the course of history forever. Welcome to the Infernal Devices trilogy, a stunning and dangerous prequel to the New York Times bestselling Mortal Instruments series. The year is 1878. Tessa Gray descends into London\u2019s dark supernatural underworld in search of her missing brother. She soon discovers that her only allies are the demon-slaying Shadowhunters\u2014including Will and Jem, the mysterious boys she is attracted to. Soon they find themselves up against the Pandemonium Club, a secret organization of vampires, demons, warlocks, and humans. Equipped with a magical army of unstoppable clockwork creatures, the Club is out to rule the British Empire, and only Tessa and her allies can stop them. . .",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Romance",
             "Paranormal",
             "Steampunk",
@@ -2852,7 +2813,6 @@ books = [
         "genre_array": [
             "Fiction",
             "Historical Fiction",
-            "Young Adult",
             "Classics",
             "Historical",
             "Contemporary",
@@ -2956,7 +2916,6 @@ books = [
         "genre_array": [
             "Fantasy",
             "Fiction",
-            "Young Adult",
             "Magic",
             "Childrens",
             "Middle Grade",
@@ -3009,7 +2968,6 @@ books = [
             "Fiction",
             "Classics",
             "Science Fiction",
-            "Young Adult",
             "Psychology",
             "School",
             "Literature"
@@ -3085,7 +3043,6 @@ books = [
         "description": "An alternate cover edition for ISBN 9780375826696 can be found here. One boy. . . One dragon. . . A world of adventure. When Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy perhaps it will buy his family meat for the winter. But when the stone brings a dragon hatchling, Eragon soon realizes he has stumbled upon a legacy nearly as old as the Empire itself. Overnight his simple life is shattered, and he is thrust into a perilous new world of destiny, magic, and power. With only an ancient sword and the advice of an old storyteller for guidance, Eragon and the fledgling dragon must navigate the dangerous terrain and dark enemies of an Empire ruled by a king whose evil knows no bounds. Can Eragon take up the mantle of the legendary Dragon Riders? The fate of the Empire may rest in his hands.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Dragons",
             "Adventure",
@@ -3114,7 +3071,6 @@ books = [
             "Fiction",
             "Adventure",
             "Historical Fiction",
-            "Young Adult",
             "Literature",
             "Childrens"
         ]
@@ -3166,7 +3122,6 @@ books = [
             "Fiction",
             "Fantasy",
             "Classics",
-            "Young Adult",
             "Middle Grade",
             "Humor"
         ]
@@ -3188,7 +3143,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652042180i/99561._SY75_.jpg",
         "description": "Before. Miles \u201cPudge\u201d Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave \u201cthe Great Perhaps\u201d even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed up, and utterly fascinating Alaska Young. She is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart. Then. . . . After. Nothing is ever the same.",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Contemporary",
             "Romance",
@@ -3218,7 +3172,6 @@ books = [
             "Classics",
             "Fiction",
             "Adventure",
-            "Young Adult",
             "Science Fiction Fantasy",
             "High Fantasy"
         ]
@@ -3242,7 +3195,6 @@ books = [
         "genre_array": [
             "Fiction",
             "Mystery",
-            "Young Adult",
             "Contemporary",
             "Classics",
             "Novels",
@@ -3345,7 +3297,6 @@ books = [
         "description": "All year the half-bloods have been preparing for battle against the Titans, knowing the odds of victory are grim. Kronos's army is stronger than ever, and with every god and half-blood he recruits, the evil Titan's power only grows. While the Olympians struggle to contain the rampaging monster Typhon, Kronos begins his advance on New York City, where Mount Olympus stands virtually unguarded. Now it's up to Percy Jackson and an army of young demigods to stop the Lord of Time. In this momentous final book in the New York Times best-selling series, the long-awaited prophecy surrounding Percy's sixteenth birthday unfolds. And as the battle for Western civilization rages on the streets of Manhattan, Percy faces a terrifying suspicion that he may be fighting against his own fate.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Mythology",
             "Fiction",
             "Middle Grade",
@@ -3477,7 +3428,6 @@ books = [
             "Fantasy",
             "Classics",
             "Fiction",
-            "Young Adult",
             "Childrens",
             "Middle Grade",
             "Adventure"
@@ -3528,7 +3478,6 @@ books = [
         "genre_array": [
             "Classics",
             "Fiction",
-            "Young Adult",
             "Childrens",
             "Historical Fiction",
             "Middle Grade",
@@ -3604,7 +3553,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618269830i/38709._SX50_.jpg",
         "description": "Stanley Yelnats is under a curse. A curse that began with his no-good-dirty-rotten-pig-stealing-great-great-grandfather and has since followed generations of Yelnats. Now Stanley has been unjustly sent to a boys\u2019 detention center, Camp Green Lake, where the boys build character by spending all day, every day digging holes exactly five feet wide and five feet deep. There is no lake at Camp Green Lake. But there are an awful lot of holes. It doesn\u2019t take long for Stanley to realize there\u2019s more than character improvement going on at Camp Green Lake. The boys are digging holes because the warden is looking for something. But what could be buried under a dried-up lake? Stanley tries to dig up the truth in this inventive and darkly humorous tale of crime and punishment\u2014and redemption.",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Middle Grade",
             "Childrens",
@@ -3760,7 +3708,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358261334i/6339664._SY75_.jpg",
         "description": "A SACRED OATHA FALLEN ANGELA FORBIDDEN LOVERomance was not part of Nora Grey's plan. She's never been particularly attracted to the boys at her school, no matter how hard her best friend, Vee, pushes them at her. Not until Patch comes along. With his easy smile and eyes that seem to see inside her, Patch draws Nora to him against her better judgment. But after a series of terrifying encounters, Nora's not sure whom to trust. Patch seems to be everywhere she is and seems to know more about her than her closest friends. She can't decide whether she should fall into his arms or run and hide. And when she tries to seek some answers, she finds herself near a truth that is way more unsettling than anything Patch makes her feel. For she is right in the middle of an ancient battle between the immortal and those that have fallen - and, when it comes to choosing sides, the wrong choice will cost Nora her life.",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Romance",
             "Paranormal",
@@ -3868,7 +3815,6 @@ books = [
             "Historical Fiction",
             "Childrens",
             "Fiction",
-            "Young Adult",
             "Historical",
             "Middle Grade"
         ]
@@ -3921,7 +3867,6 @@ books = [
             "Fiction",
             "Childrens",
             "Adventure",
-            "Young Adult",
             "Middle Grade"
         ]
     },
@@ -4018,7 +3963,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618525340i/11735983._SY75_.jpg",
         "description": "One choice can transform you\u2014or it can destroy you. But every choice has consequences, and as unrest surges in the factions all around her, Tris Prior must continue trying to save those she loves\u2014and herself\u2014while grappling with haunting questions of grief and forgiveness, identity and loyalty, politics and love. Tris's initiation day should have been marked by celebration and victory with her chosen faction instead, the day ended with unspeakable horrors. War now looms as conflict between the factions and their ideologies grows. And in times of war, sides must be chosen, secrets will emerge, and choices will become even more irrevocable\u2014and even more powerful. Transformed by her own decisions but also by haunting grief and guilt, radical new discoveries, and shifting relationships, Tris must fully embrace her Divergence, even if she does not know what she may lose by doing so. New York Times bestselling author Veronica Roth's much-anticipated second book of the dystopian DIVERGENT series is another intoxicating thrill ride of a story, rich with hallmark twists, heartbreaks, romance, and powerful insights about human nature.",
         "genre_array": [
-            "Young Adult",
             "Dystopia",
             "Fiction",
             "Fantasy",
@@ -4047,7 +3991,6 @@ books = [
             "Romance",
             "Fiction",
             "Contemporary",
-            "Young Adult",
             "Chick Lit",
             "Adult",
             "Contemporary Romance"
@@ -4122,7 +4065,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361099049i/2802316._SY75_.jpg",
         "description": "WHAT IF FOLLOWING HER HEART MEANS ROSE COULD LOSE HER BEST FRIEND FOREVER?Lissa Dragomir is a Moroi princess: a mortal vampire with a rare gift for harnessing the earth's magic. She must be protected at all times from Strigoi the fiercest vampires - the ones who never die. The powerful blend of human and vampire blood that flows through Rose Hathaway, Lissa's best friend, makes her a Dhampir. Rose is dedicated to a dangerous life of protecting Lissa from the Strigoi, who are hell-bent on making Lissa one of them. Rose knows it is forbidden to love another guardian. Her best friend, Lissa - the last Dragomir princess - must always come first. Unfortunately, when it comes to gorgeous Dimitri Belikov, some rules are meant to be broken. . . Then a strange darkness begins to grow in Rose's mind, and ghostly shadows warn of a terrible evil drawing nearer to the Academy's iron gates. The immortal undead are closing in, and they want vengeance for the lives Rose has stolen. In a heart-stopping battle to rival her worst nightmares, Rose will have to choose between life, love, and the two people who matter most. . . but will her choice mean that only one can survive?",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Vampires",
             "Paranormal",
@@ -4149,7 +4091,6 @@ books = [
         "description": "Percy Jackson isn't expecting freshman orientation to be any fun. But when a mysterious mortal acquaintance appears at his potential new school, followed by demon cheerleaders, things quickly move from bad to worse. In this fourth installment of the blockbuster series, time is running out as war between the Olympians and the evil Titan lord Kronos draws near. Even the safe haven of Camp Half-Blood grows more vulnerable by the minute as Kronos's army prepares to invade its once impenetrable borders. To stop the invasion, Percy and his demigod friends must set out on a quest through the Labyrinth - a sprawling underground world with stunning surprises at every turn.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Mythology",
             "Fiction",
             "Middle Grade",
@@ -4227,7 +4168,6 @@ books = [
         "description": "Danger and betrayal, love and loss, secrets and enchantment are woven together in the breathtaking finale to the #1 New York Times bestselling Infernal Devices Trilogy, prequel to the internationally bestselling Mortal Instruments series. THE INFERNAL DEVICES WILL NEVER STOP COMINGA net of shadows begins to tighten around the Shadowhunters of the London Institute. Mortmain plans to use his Infernal Devices, an army of pitiless automatons, to destroy the Shadowhunters. He needs only one last item to complete his plan: he needs Tessa Gray. Charlotte Branwell, head of the London Institute, is desperate to find Mortmain before he strikes. But when Mortmain abducts Tessa, the boys who lay equal claim to her heart, Jem and Will, will do anything to save her. For though Tessa and Jem are now engaged, Will is as much in love with her as ever. As those who love Tessa rally to rescue her from Mortmain\u2019s clutches, Tessa realizes that the only person who can save her is herself. But can a single girl, even one who can command the power of angels, face down an entire army?Danger and betrayal, secrets and enchantment, and the tangled threads of love and loss intertwine as the Shadowhunters are pushed to the very brink of destruction in the breathtaking conclusion to the Infernal Devices trilogy.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Romance",
             "Paranormal",
             "Historical Fiction",
@@ -4305,7 +4245,6 @@ books = [
         "description": "It's not everyday you find yourself in combat with a half-lion, half-human. But when you're the son of a Greek god, it happens. And now my friend Annabeth is missing, a goddess is in chains and only five half-blood heroes can join the quest to defeat the doomsday monster. Oh, and guess what? The Oracle has predicted that not all of us will survive. . .",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Mythology",
             "Fiction",
             "Middle Grade",
@@ -4334,7 +4273,6 @@ books = [
             "Fantasy",
             "Fiction",
             "Childrens",
-            "Young Adult",
             "Adventure",
             "Middle Grade"
         ]
@@ -4435,7 +4373,6 @@ books = [
         "description": "The heroic son of Poseidon makes an action-packed comeback in the second must-read installment of Rick Riordan's amazing young readers series. Starring Percy Jackson, a \"half blood\" whose mother is human and whose father is the God of the Sea, Riordan's series combines cliffhanger adventure and Greek mythology lessons that results in true page-turners that get better with each installment. In this episode, The Sea of Monsters, Percy sets out to retrieve the Golden Fleece before his summer camp is destroyed, surpassing the first book's drama and setting the stage for more thrills to come.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Mythology",
             "Fiction",
             "Middle Grade",
@@ -4513,7 +4450,6 @@ books = [
         "description": "Ketterdam: a bustling hub of international trade where anything can be had for the right price\u2014and no one knows that better than criminal prodigy Kaz Brekker. Kaz is offered a chance at a deadly heist that could make him rich beyond his wildest dreams. But he can\u2019t pull it off alone. . . . A convict with a thirst for revengeA sharpshooter who can\u2019t walk away from a wagerA runaway with a privileged pastA spy known as the WraithA Heartrender using her magic to survive the slumsA thief with a gift for unlikely escapesSix dangerous outcasts. One impossible heist. Kaz\u2019s crew is the only thing that might stand between the world and destruction\u2014if they don\u2019t kill each other first.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Young Adult Fantasy",
             "Romance",
@@ -4564,7 +4500,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361098960i/2282133._SY75_.jpg",
         "description": "Rose loves Dimitri, Dimitri might love Tasha, and Mason would die to be with Rose\u2026It\u2019s winter break at St. Vladimir\u2019s, but Rose is feeling anything but festive. A massive Strigoi attack has put the school on high alert, and now the Academy\u2019s crawling with Guardians\u2014including Rose\u2019s hard-hitting mother, Janine Hathaway. And if hand-to-hand combat with her mom wasn\u2019t bad enough, Rose\u2019s tutor Dimitri has his eye on someone else, her friend Mason\u2019s got a huge crush on her, and Rose keeps getting stuck in Lissa\u2019s head while she\u2019s making out with her boyfriend, Christian! The Strigoi are closing in, and the Academy\u2019s not taking any risks. . . . This year, St. Vlad\u2019s annual holiday ski trip is mandatory. But the glittering winter landscape and the posh Idaho resort only create the illusion of safety. When three friends run away in an offensive move against the deadly Strigoi, Rose must join forces with Christian to rescue them. But heroism rarely comes without a price\u2026",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Vampires",
             "Paranormal",
@@ -4590,7 +4525,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375596592i/6186357._SY75_.jpg",
         "description": "There are alternate cover editions for this ASIN here and here. If you ain\u2019t scared, you ain\u2019t human. When Thomas wakes up in the lift, the only thing he can remember is his name. He\u2019s surrounded by strangers\u2014boys whose memories are also gone. Nice to meet ya, shank. Welcome to the Glade. Outside the towering stone walls that surround the Glade is a limitless, ever-changing maze. It\u2019s the only way out\u2014and no one\u2019s ever made it through alive. Everything is going to change. Then a girl arrives. The first girl ever. And the message she delivers is terrifying. Remember. Survive. Run.",
         "genre_array": [
-            "Young Adult",
             "Dystopia",
             "Science Fiction",
             "Fiction",
@@ -4694,7 +4628,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360094673i/7938275._SY75_.jpg",
         "description": "The extraordinary, ground breaking New York Times bestsellers The Hunger Games and Catching Fire, along with the third book in The Hunger Games trilogy by Suzanne Collins, Mockingjay, are available for the first time ever in a beautiful boxset edition. Stunning, gripping, and powerful. The trilogy is now complete!",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Fantasy",
             "Dystopia",
@@ -4720,7 +4653,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442530605i/5996153._SY75_.jpg",
         "description": "Bound by love, but sworn to kill. . . The world thought Dimitri was dead. And to a certain extent, he was. But I hadn't been able to forget a conversation he and I had once had. We'd both agreed that we'd rather be dead - truly dead - than walk the world as Strigoi. It was time to honor our words. Guardian Rose Hathaway's life will never be the same. The recent attack on St. Vladimir's Academy devastated the entire Moroi world. Many are dead. And, for the few victims carried off by Strigoi, their fates are even worse. A rare tattoo now adorns Rose's neck a mark that says she's killed far too many Strigoi to count. But only one victim matters. . . Dimitri Belikov. Rose must now choose one of two very different paths: honoring her life's vow to protect Lissa\u2014her best friend and the last surviving Dragomir princess\u2014or, dropping out of the Academy to strike out on her own and hunt down the man she loves. She'll have to go to the ends of the earth to find Dimitri and keep the promise he begged her to make. But the question is, when the time comes, will he want to be saved?Now, with everything at stake\u2014and worlds away from St. Vladimir's and her unguarded, vulnerable, and newly rebellious best friend\u2014can Rose find the strength to destroy Dimitri? Or, will she sacrifice herself for a chance at eternal love?Readers who fell in love with Rose, Lissa, and Dimitri won't want to miss Blood Promise, the much-anticipated, epic fourth novel in Richelle Mead's enthralling Vampire Academy series.",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Vampires",
             "Paranormal",
@@ -4773,7 +4705,6 @@ books = [
         "description": "The 40th anniversary edition of the classic Newbery Medal-winning title by beloved author Katherine Paterson, with brand-new bonus materials including an author's note by Katherine herself and a foreword by New York Times bestselling author Kate DiCamillo. Jess Aarons has been practicing all summer so he can be the fastest runner in the fifth grade. And he almost is, until the new girl in school, Leslie Burke, outpaces him. The two become fast friends and spend most days in the woods behind Leslie's house, where they invent an enchanted land called Terabithia. One morning, Leslie goes to Terabithia without Jess and a tragedy occurs. It will take the love of his family and the strength that Leslie has given him for Jess to be able to deal with his grief. Bridge to Terabithia was also named an ALA Notable Children\u2019s Book and has become a touchstone of children\u2019s literature, as have many of Katherine Paterson\u2019s other novels, including The Great Gilly Hopkins and Jacob Have I Loved.",
         "genre_array": [
             "Fiction",
-            "Young Adult",
             "Classics",
             "Fantasy",
             "Childrens",
@@ -4824,7 +4755,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941i/6148028._SY75_.jpg",
         "description": "Sparks are igniting. Flames are spreading. And the Capitol wants revenge. Against all odds, Katniss Everdeen has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol\u2014a rebellion that Katniss and Peeta may have helped create. Much to her shock, Katniss has fueled an unrest that she's afraid she cannot stop. And what scares her even more is that she's not entirely convinced she should try. As time draws near for Katniss and Peeta to visit the districts on the Capitol's cruel Victory Tour, the stakes are higher than ever. If they can't prove, without a shadow of a doubt, that they are lost in their love for each other, the consequences will be horrifying. In Catching Fire, the second novel of the Hunger Games trilogy, Suzanne Collins continues the story of Katniss Everdeen, testing her more than ever before . . . and surprising readers at every turn.",
         "genre_array": [
-            "Young Adult",
             "Dystopia",
             "Fiction",
             "Fantasy",
@@ -4853,7 +4783,6 @@ books = [
             "Classics",
             "Fiction",
             "Adventure",
-            "Young Adult",
             "Animals",
             "Historical Fiction",
             "Literature"
@@ -4880,7 +4809,6 @@ books = [
             "Fantasy",
             "Fiction",
             "Childrens",
-            "Young Adult",
             "Adventure",
             "Literature"
         ]
@@ -4929,7 +4857,6 @@ books = [
         "description": "Meet Celaena Sardothien. Beautiful. Deadly. Destined for greatness. In a land without magic, where the king rules with an iron hand, Celaena, an assassin, is summoned to the castle. She comes not to kill the king, but to win her freedom. If she defeats twenty-three killers, thieves, and warriors in a competition, she is released from prison to serve as the king\u2019s champion. The Crown Prince will provoke her. The Captain of the Guard will protect her. But something evil dwells in the castle of glass\u2014and it\u2019s there to kill. When her competitors start dying one by one, Celaena\u2019s fight for freedom becomes a fight for survival, and a desperate quest to root out the evil before it destroys her world.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Romance",
             "Fiction",
             "Young Adult Fantasy",
@@ -5010,7 +4937,6 @@ books = [
             "Fiction",
             "Classics",
             "Childrens",
-            "Young Adult",
             "Middle Grade",
             "Adventure"
         ]
@@ -5166,7 +5092,6 @@ books = [
             "Adventure",
             "Classics",
             "Historical Fiction",
-            "Young Adult",
             "Childrens",
             "Pirates"
         ]
@@ -5191,7 +5116,6 @@ books = [
             "Fantasy",
             "Classics",
             "Fiction",
-            "Young Adult",
             "Childrens",
             "Adventure",
             "German Literature"
@@ -5292,7 +5216,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322103400i/10507293._SY75_.jpg",
         "description": "For thirty-five girls, the Selection is the chance of a lifetime. The opportunity to escape the life laid out for them since birth. To be swept up in a world of glittering gowns and priceless jewels. To live in a palace and compete for the heart of gorgeous Prince Maxon. But for America Singer, being Selected is a nightmare. It means turning her back on her secret love with Aspen, who is a caste below her. Leaving her home to enter a fierce competition for a crown she doesn't want. Living in a palace that is constantly threatened by violent rebel attacks. Then America meets Prince Maxon. Gradually, she starts to question all the plans she's made for herself\u2014and realizes that the life she's always dreamed of may not compare to a future she never imagined.",
         "genre_array": [
-            "Young Adult",
             "Romance",
             "Dystopia",
             "Fantasy",
@@ -5398,7 +5321,6 @@ books = [
         "genre_array": [
             "Historical Fiction",
             "Fiction",
-            "Young Adult",
             "Historical",
             "Classics",
             "Holocaust",
@@ -5630,7 +5552,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555345043i/29844228._SY75_.jpg",
         "description": "You can\u2019t stop the future. You can\u2019t rewind the past. The only way to learn the secret . . . is to press play. Clay Jensen returns home from school to find a strange package with his name on it lying on his porch. Inside he discovers several cassette tapes recorded by Hannah Baker\u2013his classmate and crush\u2013who committed suicide two weeks earlier. Hannah\u2019s voice tells him that there are thirteen reasons why she decided to end her life. Clay is one of them. If he listens, he\u2019ll find out why. Clay spends the night crisscrossing his town with Hannah as his guide. He becomes a firsthand witness to Hannah\u2019s pain, and as he follows Hannah\u2019s recorded words throughout his town, what he discovers changes his life forever.",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Contemporary",
             "Realistic Fiction",
@@ -5711,7 +5632,6 @@ books = [
             "Classics",
             "Fiction",
             "Childrens",
-            "Young Adult",
             "Historical Fiction",
             "Middle Grade",
             "Historical"
@@ -5735,7 +5655,6 @@ books = [
         "description": "JASON HAS A PROBLEM. He doesn\u2019t remember anything before waking up in a bus full of kids on a field trip. Apparently he has a girlfriend named Piper, and his best friend is a guy named Leo. They\u2019re all students at the Wilderness School, a boarding school for \u201cbad kids,\" as Leo puts it. What did Jason do to end up here? And where is here, exactly? Jason doesn't know anything\u2014except that everything seems very wrong. PIPER HAS A SECRET. Her father has been missing for three days, ever since she had that terrifying nightmare about his being in trouble. Piper doesn\u2019t understand her dream, or why her boyfriend suddenly doesn\u2019t recognize her. When a freak storm hits during the school trip, unleashing strange creatures and whisking her, Jason, and Leo away to someplace called Camp Half-Blood, she has a feeling she\u2019s going to find out, whether she wants to or not. LEO HAS A WAY WITH TOOLS. When he sees his cabin at Camp Half-Blood, filled with power tools and machine parts, he feels right at home. But there\u2019s weird stuff, too\u2014like the curse everyone keeps talking about, and some camper who's gone missing. Weirdest of all, his bunkmates insist that each of them\u2014including Leo\u2014is related to a god. Does this have anything to do with Jason's amnesia, or the fact that Leo keeps seeing ghosts?Join new and old friends from Camp Half-Blood in this thrilling first book in The Heroes of Olympus series. Best-selling author Rick Riordan has pumped up the action, humor, suspense, and mystery in an epic adventure that will leave readers panting for the next installment.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Mythology",
             "Fiction",
             "Middle Grade",
@@ -5762,7 +5681,6 @@ books = [
         "genre_array": [
             "Fantasy",
             "Romance",
-            "Young Adult",
             "New Adult",
             "Fiction",
             "Fae",
@@ -5814,7 +5732,6 @@ books = [
         "genre_array": [
             "Fantasy",
             "Fiction",
-            "Young Adult",
             "Childrens",
             "Science Fiction Fantasy",
             "Science Fiction",
@@ -5917,7 +5834,6 @@ books = [
         "description": "Runner up in the 2021 TCK Publishing Reader\u2019s Choice Awards: Fantasy GenreAt the age of five Lincoln was abandoned inexplicably at an orphanage by his father with nothing but a promise to return and an old wrist chain. 11 years later when seemingly ordinary 16-year-old Lincoln runs away from yet another foster home, heading to his favoured spot in New York City, he is attacked by a dog, a monstrous three headed dog the size of a truck. Becoming marked, a string of attacks follow, only ending when he is saved by El, Ben, and AJ, a group of enhanced people known as Ascendants. Discovering the world is not as it seems, with Sorcerers, Nature Spirits and demonic monsters all hiding in plain sight, he learns that he is a long-lost Ascendant himself discovering that the chain his father left him was at the centre of a conspiracy that resulted in his abandonment and his father\u2019s subsequent disappearance.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Urban Fantasy",
             "Fiction",
             "Young Adult Fantasy"
@@ -5993,7 +5909,6 @@ books = [
         "description": "In the magical underworld of Victorian London, Tessa Gray has at last found safety with the Shadowhunters. But that safety proves fleeting when rogue forces in the Clave plot to see her protector, Charlotte, replaced as head of the Institute. If Charlotte loses her position, Tessa will be out on the street\u2014and easy prey for the mysterious Magister, who wants to use Tessa\u2019s powers for his own dark ends. With the help of the handsome, self-destructive Will and the fiercely devoted Jem, Tessa discovers that the Magister\u2019s war on the Shadowhunters is deeply personal. He blames them for a long-ago tragedy that shattered his life. To unravel the secrets of the past, the trio journeys from mist-shrouded Yorkshire to a manor house that holds untold horrors, from the slums of London to an enchanted ballroom where Tessa discovers that the truth of her parentage is more sinister than she had imagined. When they encounter a clockwork demon bearing a warning for Will, they realize that the Magister himself knows their every move\u2014and that one of their own has betrayed them. Tessa finds her heart drawn more and more to Jem, but her longing for Will, despite his dark moods, continues to unsettle her. But something is changing in Will\u2014the wall he has built around himself is crumbling. Could finding the Magister free Will from his secrets and give Tessa the answers about who she is and what she was born to do?As their dangerous search for the Magister and the truth leads the friends into peril, Tessa learns that when love and lies are mixed, they can corrupt even the purest heart.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Romance",
             "Paranormal",
             "Steampunk",
@@ -6148,7 +6063,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440619649i/6487308._SY75_.jpg",
         "description": "There\u2019s something achingly familiar about Daniel Grigori. Mysterious and aloof, he captures Luce Price\u2019s attention from the moment she sees him on her first day at the Sword & Cross boarding school in sultry Savannah, Georgia. He\u2019s the one bright spot in a place where cell phones are forbidden, the other students are all screw-ups, and security cameras watch every move. Even though Daniel wants nothing to do with Luce\u2014and goes out of his way to make that very clear\u2014she can\u2019t let it go. Drawn to him like a moth to a flame, she has to find out what Daniel is so desperate to keep secret\u2026 even if it kills her.",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Romance",
             "Paranormal",
@@ -6175,7 +6089,6 @@ books = [
         "description": "Humans and androids crowd the raucous streets of New Beijing. A deadly plague ravages the population. From space, a ruthless Lunar people watch, waiting to make their move. No one knows that Earth\u2019s fate hinges on one girl. . . . Cinder, a gifted mechanic, is a cyborg. She\u2019s a second-class citizen with a mysterious past, reviled by her stepmother and blamed for her stepsister\u2019s illness. But when her life becomes intertwined with the handsome Prince Kai\u2019s, she suddenly finds herself at the center of an intergalactic struggle, and a forbidden attraction. Caught between duty and freedom, loyalty and betrayal, she must uncover secrets about her past in order to protect her world\u2019s future.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Science Fiction",
             "Romance",
             "Dystopia",
@@ -6200,7 +6113,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319850978i/6527740._SX50_.jpg",
         "description": "They come first. My vision was growing dimmer, the blackness and ghosts closing in. I swore it was like I could hear Robert whispering in my ear: The world of the dead won't give you up a second time. Just before the light completely vanished, I saw Dimitri's face join Lissa's. I wanted to smile. I decided then that if the two people I loved most were safe, I could leave this world. The dead could finally have me. Rose Hathaway has always played by her own rules. She broke the law when she ran away from St. Vladimir's Academy with her best friend and last surviving Dragomir princess, Lissa. She broke the law when she fell in love with her gorgeous, off-limits instructor, Dimitri. And she dared to defy Queen Tatiana, leader of the Moroi world, risking her life and reputation to protect generations of dhampir guardians to come. Now the law has finally caught up with Rose - for a crime she didn't even commit. She's in prison for the highest offense imaginable: the assassination of a monarch. She'll need help from both Dimitri and Adrian to find the one living person who can stall her execution and force the Moroi elite to acknowledge a shocking new candidate for the royal throne: Vasilisa Dragomir. But the clock on Rose's life is running out. Rose knows in her heart the world of the dead wants her back. . . and this time she is truly out of second chances. The big question is, when your whole life is about saving others, who will save you?Join Rose, Dimitri, Adrian, and Lissa in Last Sacrifice, the epic, unforgettable finale to Richelle Mead's international #1 bestselling Vampire Academy series.",
         "genre_array": [
-            "Young Adult",
             "Vampires",
             "Fantasy",
             "Paranormal",
@@ -6383,7 +6295,6 @@ books = [
         "description": "The Mortal War is over, and sixteen-year-old Clary Fray is back home in New York, excited about all the possibilities before her. She\u2019s training to become a Shadowhunter and to use her unique power. Her mother is getting married to the love of her life. Downworlders and Shadowhunters are at peace at last. And\u2014most importantly of all\u2014she can finally call Jace her boyfriend. But nothing comes without a price. Someone is murdering Shadowhunters, provoking tensions between Downworlders and Shadowhunters that could lead to a second, bloody war. Clary\u2019s best friend, Simon, can\u2019t help her\u2014his mother just found out that he\u2019s a vampire, and now he\u2019s homeless. When Jace begins to pull away from her without explaining why, Clary is forced to delve into the heart of a mystery whose solution reveals her worst nightmare: she herself has set in motion a terrible chain of events that could lead to her losing everything she loves. Even Jace.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Romance",
             "Paranormal",
             "Urban Fantasy",
@@ -6460,7 +6371,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291168967i/6479259._SY75_.jpg",
         "description": "Salvation has its price . . . The words stunned Adrian for a moment, but he kept going. \"You're lying. What you're describing is impossible. There's no way to save a Strigoi. When they're gone, they're gone. They're dead. Undead. Forever. \"Robert's next words weren't directed at Adrian. They were spoken to me. \"That which is dead doesn't always stay dead. . . . \"After a long and heartbreaking journey to Siberia, Dimitri\u2019s birthplace, Rose Hathaway has finally returned to St. Vladimir\u2019s\u2014and to her best friend, Lissa Dragomir. It's graduation, and the girls can\u2019t wait for their real lives outside the academy\u2019s cold iron gates to finally begin. But even with the intrigue and excitement of court life looming, Rose\u2019s heart still aches for Dimitri. He\u2019s out there, somewhere. She failed to kill him when she had the chance, and now her worst fears are about to come true. Dimitri has tasted her blood, and she knows in her heart that he is hunting her. And if Rose won't join him, he won't rest until he has silenced her . . . forever. But Rose can't forget what she learned on her journey\u2014whispers of a magic too impossible and terrifying to comprehend. A magic inextricably tied to Lissa that could hold the answer to all of Rose's prayers, but not without devastating consequences. Now Rose will have to decide what\u2014and who\u2014matters most to her. And in the end, is true love really worth the price?Fall in love with Rose and Dimitri all over again in Spirit Bound, the eagerly awaited fifth novel in Richelle Mead's enthralling Vampire Academy series.",
         "genre_array": [
-            "Young Adult",
             "Vampires",
             "Fantasy",
             "Paranormal",
@@ -6517,7 +6427,6 @@ books = [
             "Classics",
             "Fiction",
             "Humor",
-            "Young Adult",
             "Picture Books"
         ]
     },
@@ -6543,7 +6452,6 @@ books = [
             "Childrens",
             "Classics",
             "Animals",
-            "Young Adult",
             "Adventure"
         ]
     },
@@ -6591,7 +6499,6 @@ books = [
         "description": "An alternative cover for this ISBN can be found hereSophie has the great misfortune of being the eldest of three daughters, destined to fail miserably should she ever leave home to seek her fate. But when she unwittingly attracts the ire of the Witch of the Waste, Sophie finds herself under a horrid spell that transforms her into an old lady. Her only chance at breaking it lies in the ever-moving castle in the hills: the Wizard Howl's castle. To untangle the enchantment, Sophie must handle the heartless Howl, strike a bargain with a fire demon, and meet the Witch of the Waste head-on. Along the way, she discovers that there's far more to Howl\u2014and herself\u2014than first meets the eye.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Romance",
             "Middle Grade",
@@ -6694,7 +6601,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654202671i/24770._SX50_.jpg",
         "description": "Tally is about to turn sixteen, and she can't wait. In just a few weeks she'll have the operation that will turn her from a repellent ugly into a stunning pretty. And as a pretty, she'll be catapulted into a high-tech paradise where her only job is to have fun. But Tally's new friend Shay isn't sure she wants to become a pretty. When Shay runs away, Tally learns about a whole new side of the pretty world\u2014and it isn't very pretty. The authorities offer Tally a choice: find her friend and turn her in, or never turn pretty at all. Tally's choice will change her world forever. . . .",
         "genre_array": [
-            "Young Adult",
             "Dystopia",
             "Science Fiction",
             "Fiction",
@@ -6747,7 +6653,6 @@ books = [
         "description": "At birth, Ella is inadvertently cursed by an imprudent young fairy named Lucinda, who bestows on her the \"gift\" of obedience. Anything anyone tells her to do, Ella must obey. Another girl might have been cowed by this affliction, but not feisty Ella: \"Instead of making me docile, Lucinda's curse made a rebel of me. Or perhaps I was that way naturally. \" When her beloved mother dies, leaving her in the care of a mostly absent and avaricious father, and later, a loathsome stepmother and two treacherous stepsisters, Ella's life and well-being seem to be in grave peril. But her intelligence and saucy nature keep her in good stead as she sets out on a quest for freedom and self-discovery as she tries to track down Lucinda to undo the curse, fending off ogres, befriending elves, and falling in love with a prince along the way. Yes, there is a pumpkin coach, a glass slipper, and a happily ever after, but this is the most remarkable, delightful, and profound version of Cinderella you'll ever read. Gail Carson Levine's examination of traditional female roles in fairy tales takes some satisfying twists and deviations from the original. Ella is bound by obedience against her will, and takes matters in her own hands with ambition and verve. Her relationship with the prince is balanced and based on humor and mutual respect in fact, it is she who ultimately rescues him. Ella Enchanted has won many well-deserved awards, including a Newbery Honor.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Romance",
             "Middle Grade",
@@ -6850,7 +6755,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409283154i/6068551._SX50_.jpg",
         "description": "For years, Grace has watched the wolves in the woods behind her house. One yellow-eyed wolf\u2014her wolf\u2014is a chilling presence she can't seem to live without. Meanwhile, Sam has lived two lives: In winter, the frozen woods, the protection of the pack, and the silent company of a fearless girl. In summer, a few precious months of being human\u2026 until the cold makes him shift back again. Now, Grace meets a yellow-eyed boy whose familiarity takes her breath away. It's her wolf. It has to be. But as winter nears, Sam must fight to stay human\u2014or risk losing himself, and Grace, forever.",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Romance",
             "Paranormal",
@@ -7032,7 +6936,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317067002i/30183._SX50_.jpg",
         "description": "Also see: Alternate Cover Editions for this ISBN [ACE] ACE #1After a Vampire Tracker Marks her with a crescent moon on her forehead, 16-year-old Zoey Redbird enters the House of Night and learns that she is no average fledgling. She has been Marked as special by the vampyre Goddess Nyx and has affinities for all five elements: Air, Fire, Water, Earth and Spirit. But she is not the only fledgling at the House of Night with special powers. When she discovers that the leader of the Dark Daughters, the school\u2019s most elite club, is misusing her Goddess-given gifts, Zoey must look deep within herself for the courage to embrace her destiny\u2014with a little help from her new vampyre friends (or Nerd Herd, as Aphrodite calls them).",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Vampires",
             "Paranormal",
@@ -7110,7 +7013,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529044298i/39280444._SY75_.jpg",
         "description": "The first ten lies they tell you in high school. \"Speak up for yourself\u2014we want to know what you have to say. \" From the first moment of her freshman year at Merryweather High, Melinda knows this is a big fat lie, part of the nonsense of high school. She is friendless, outcast, because she busted an end-of-summer party by calling the cops, so now nobody will talk to her, let alone listen to her. As time passes, she becomes increasingly isolated and practically stops talking altogether. Only her art class offers any solace, and it is through her work on an art project that she is finally able to face what really happened at that terrible party: she was raped by an upperclassman, a guy who still attends Merryweather and is still a threat to her. Her healing process has just begun when she has another violent encounter with him. But this time Melinda fights back, refuses to be silent, and thereby achieves a measure of vindication. In Laurie Halse Anderson's powerful novel, an utterly believable heroine with a bitterly ironic voice delivers a blow to the hypocritical world of high school. She speaks for many a disenfranchised teenager while demonstrating the importance of speaking up for oneself. Speak was a 1999 National Book Award Finalist for Young People's Literature.",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Contemporary",
             "Realistic Fiction",
@@ -7188,7 +7090,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533405446i/41044096._SX50_.jpg",
         "description": "In the Pacific there is an island that looks like a big fish sunning itself in the sea. Around it, blue dolphins swim, otters play, and sea elephants and sea birds abound. Once, Indians also lived on the island. And when they left and sailed to the east, one young girl was left behind. \u2014 This is the story of Karana, the Indian girl who lived alone for years on the Island of the Blue Dolphins. Year after year, she watched one season pass into another and waited for a ship to take her away. But while she waited, she kept herself alive by building shelter, making weapons, finding food, and fighting her enemies, the wild dogs. It is not only an unusual adventure of survival, but also a tale of natural beauty and personal discovery.",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Historical Fiction",
             "Classics",
@@ -7214,7 +7115,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349013610i/6442769._SX50_.jpg",
         "description": "Who is the real Margo?Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life\u2014dressed like a ninja and summoning him for an ingenious campaign of revenge\u2014he follows. After their all-nighter ends, and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. But Q soon learns that there are clues\u2014and they're for him. Urged down a disconnected path, the closer he gets, the less Q sees the girl he thought he knew. . .",
         "genre_array": [
-            "Young Adult",
             "Fiction",
             "Contemporary",
             "Romance",
@@ -7371,7 +7271,6 @@ books = [
         "description": "Alternate cover edition: 9780439709101From internationally acclaimed storyteller Cornelia Funke, this bestselling, magical epic is now out in paperback!One cruel night, Meggie's father reads aloud from a book called INKHEART-- and an evil ruler escapes the boundaries of fiction and lands in their living room. Suddenly, Meggie is smack in the middle of the kind of adventure she has only read about in books. Meggie must learn to harness the magic that has conjured this nightmare. For only she can change the course of the story that has changed her life forever. This is INKHEART--a timeless tale about books, about imagination, about life. Dare to read it aloud.",
         "genre_array": [
             "Fantasy",
-            "Young Adult",
             "Fiction",
             "Middle Grade",
             "Childrens",
@@ -7477,7 +7376,6 @@ books = [
             "Romance",
             "New Adult",
             "Contemporary",
-            "Young Adult",
             "Contemporary Romance",
             "College",
             "Fiction"
@@ -7500,7 +7398,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327890411i/11614718._SX50_.jpg",
         "description": "There is an alternate cover edition for this ISBN13 here. In an alternate United States, love has been declared a dangerous disease, and the government forces everyone who reaches eighteen to have a procedure called the Cure. Living with her aunt, uncle, and cousins in Portland, Maine, Lena Haloway is very much looking forward to being cured and living a safe, predictable life. She watched love destroy her mother and isn't about to make the same mistake. But with ninety-five days left until her treatment, Lena meets enigmatic Alex, a boy from the \"Wilds\" who lives under the government's radar. What will happen if they do the unthinkable and fall in love?",
         "genre_array": [
-            "Young Adult",
             "Dystopia",
             "Romance",
             "Science Fiction",
@@ -7526,7 +7423,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722918i/7260188._SY75_.jpg",
         "description": "My name is Katniss Everdeen. Why am I not dead?I should be dead. Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding. It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans\u2014except Katniss. The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay\u2014no matter what the personal cost.",
         "genre_array": [
-            "Young Adult",
             "Dystopia",
             "Fiction",
             "Fantasy",
@@ -7760,7 +7656,6 @@ books = [
         "image_small": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/nophoto/book/111x148._SX50_.png",
         "description": "The record for the completed novel can be found here. Midnight Sun is the much anticipated retelling of Twilight from Edward Cullen's perspective. An unedited partial draft was illegally leaked onto the internet in 2008 consequently, author Stephenie Meyer put the project on indefinite hold. Shortly afterward, she posted a letter to her fans on her website including a link to the entire partial draft of the book so that those who wanted to read it could do so legally and with her consent. Note: Do not add a cover. Do not add translations. Do not add any other editions. Do not combine with editions of the full work. Do not add this book record to any series.",
         "genre_array": [
-            "Young Adult",
             "Fantasy",
             "Vampires",
             "Romance",
