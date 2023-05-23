@@ -44,11 +44,11 @@ quotes = [
         "id": 4,
         "author_id": 219,
         "quote": "A room without books is like a body without a soul.",
-        "tags": "attributed-no-source, books, simile, soul,",
+        "tags": "attributed-no-source, inspiration, motivation, soul,",
         "tags_array": [
             "attributed-no-source",
-            "books",
-            "simile",
+            "inspiration",
+            "motivation",
             "soul"
         ]
     },
@@ -56,11 +56,11 @@ quotes = [
         "id": 5,
         "author_id": 220,
         "quote": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
-        "tags": "ataraxy, be-yourself, confidence, fitting-in, individuality, misattributed-dr-seuss, those-who-matter,",
+        "tags": "inspiration, be-yourself, motivation, fitting-in, individuality, misattributed-dr-seuss, those-who-matter,",
         "tags_array": [
-            "ataraxy",
+            "inspiration",
             "be-yourself",
-            "confidence",
+            "motivation",
             "fitting-in",
             "individuality",
             "misattributed-dr-seuss",
@@ -132,9 +132,10 @@ quotes = [
         "id": 11,
         "author_id": 2,
         "quote": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
-        "tags": "from-charles-bayard-mitchell,",
+        "tags": "from-charles-bayard-mitchell, wisdom,",
         "tags_array": [
-            "from-charles-bayard-mitchell"
+            "from-charles-bayard-mitchell",
+            "wisdom"
         ]
     },
     {
@@ -153,9 +154,11 @@ quotes = [
         "id": 13,
         "author_id": 225,
         "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-        "tags": "",
+        "tags": "life, motivation, wisdom",
         "tags_array": [
-            ""
+            "life",
+            "motivation",
+            "wisdom"
         ]
     },
     {
@@ -183,10 +186,10 @@ quotes = [
         "id": 16,
         "author_id": 13,
         "quote": "Always forgive your enemies; nothing annoys them so much.",
-        "tags": "attributed-no-source, enemies, forgiveness, strategy,",
+        "tags": "attributed-no-source, life, forgiveness, strategy,",
         "tags_array": [
             "attributed-no-source",
-            "enemies",
+            "life",
             "forgiveness",
             "strategy"
         ]
@@ -233,22 +236,22 @@ quotes = [
         "id": 20,
         "author_id": 13,
         "quote": "I am so clever that sometimes I don't understand a single word of what I am saying.",
-        "tags": "intelligence, self-deprecation,",
+        "tags": "intelligence, inspirational,",
         "tags_array": [
             "intelligence",
-            "self-deprecation"
+            "inspirational"
         ]
     },
     {
         "id": 21,
         "author_id": 229,
         "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-        "tags": "accomplishment, attributed-no-source, be-yourself, conformity, individuality,",
+        "tags": "inspirational, attributed-no-source, be-yourself, motivation, individuality,",
         "tags_array": [
-            "accomplishment",
+            "inspirational",
             "attributed-no-source",
             "be-yourself",
-            "conformity",
+            "motivation",
             "individuality"
         ]
     },
@@ -266,10 +269,10 @@ quotes = [
         "id": 23,
         "author_id": 231,
         "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.",
-        "tags": "actions, disappointed, disappointment, dream, dreams, explore, misattributed-mark-twain, sail,",
+        "tags": "live, inspiration, disappointment, dream, dreams, explore, misattributed-mark-twain, sail,",
         "tags_array": [
-            "actions",
-            "disappointed",
+            "live",
+            "inspiration",
             "disappointment",
             "dream",
             "dreams",
@@ -508,20 +511,20 @@ quotes = [
         "id": 42,
         "author_id": 239,
         "quote": "A woman is like a tea bag; you never know how strong it is until it's in hot water.",
-        "tags": "attributed-no-source, misattributed-eleanor-roosevelt,",
+        "tags": "romance, motivation,",
         "tags_array": [
-            "attributed-no-source",
-            "misattributed-eleanor-roosevelt"
+            "romance",
+            "motivation"
         ]
     },
     {
         "id": 43,
         "author_id": 48,
         "quote": "The man who does not read has no advantage over the man who cannot read.",
-        "tags": "aliteracy, attributed-no-source, literacy,",
+        "tags": "knowledge, writing, literacy,",
         "tags_array": [
-            "aliteracy",
-            "attributed-no-source",
+            "knowledge",
+            "writing",
             "literacy"
         ]
     },
@@ -562,9 +565,9 @@ quotes = [
         "id": 47,
         "author_id": 2,
         "quote": "I solemnly swear that I am up to no good.",
-        "tags": "mischief,",
+        "tags": "inspiration,",
         "tags_array": [
-            "mischief"
+            "inspiration"
         ]
     },
     {
@@ -595,9 +598,9 @@ quotes = [
         "id": 50,
         "author_id": 52,
         "quote": "I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.",
-        "tags": "fantasy,",
+        "tags": "motivation,",
         "tags_array": [
-            "fantasy"
+            "motivation"
         ]
     },
     {
@@ -624,12 +627,12 @@ quotes = [
         "id": 53,
         "author_id": 43,
         "quote": "A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.",
-        "tags": "read, readers, reading, reading-books,",
+        "tags": "read, readers, life, motivation,",
         "tags_array": [
             "read",
             "readers",
-            "reading",
-            "reading-books"
+            "life",
+            "motivation"
         ]
     },
     {
@@ -683,10 +686,10 @@ quotes = [
         "id": 58,
         "author_id": 228,
         "quote": "That which does not kill us makes us stronger.",
-        "tags": "paraphrased, strength,",
+        "tags": "inspirational, philosophy,",
         "tags_array": [
-            "paraphrased",
-            "strength"
+            "inspirational",
+            "philosophy"
         ]
     },
     {
@@ -728,11 +731,11 @@ quotes = [
         "id": 62,
         "author_id": 2,
         "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
-        "tags": "albus-dumbledore, courage, friends,",
+        "tags": "wisdom, courage, hope,",
         "tags_array": [
-            "albus-dumbledore",
+            "wisdom",
             "courage",
-            "friends"
+            "hope"
         ]
     },
     {
@@ -752,9 +755,9 @@ quotes = [
         "id": 64,
         "author_id": 246,
         "quote": "If you judge people, you have no time to love them.",
-        "tags": "attributed-no-source,",
+        "tags": "love,",
         "tags_array": [
-            "attributed-no-source"
+            "love"
         ]
     },
     {
@@ -770,20 +773,20 @@ quotes = [
         "id": 66,
         "author_id": 217,
         "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
-        "tags": "attributed-no-source, simplicity, understand,",
+        "tags": "knowledge, simplicity, inspiration,",
         "tags_array": [
-            "attributed-no-source",
+            "knowledge",
             "simplicity",
-            "understand"
+            "inspiration"
         ]
     },
     {
         "id": 67,
         "author_id": 228,
         "quote": "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
-        "tags": "lies, lying, trust,",
+        "tags": "inspiration, lying, trust,",
         "tags_array": [
-            "lies",
+            "inspiration",
             "lying",
             "trust"
         ]
@@ -815,10 +818,10 @@ quotes = [
         "id": 70,
         "author_id": 191,
         "quote": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.",
-        "tags": "books, thought,",
+        "tags": "knowledge, inspiration,",
         "tags_array": [
-            "books",
-            "thought"
+            "knowledge",
+            "inspiration"
         ]
     },
     {
@@ -858,9 +861,9 @@ quotes = [
         "id": 74,
         "author_id": 250,
         "quote": "We don't see things as they are, we see them as we are.",
-        "tags": "",
+        "tags": "inspiration",
         "tags_array": [
-            ""
+            "inspiration"
         ]
     },
     {
@@ -911,10 +914,10 @@ quotes = [
         "id": 79,
         "author_id": 10,
         "quote": "Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.",
-        "tags": "books, power-of-words, reading,",
+        "tags": "books, knowledge, reading,",
         "tags_array": [
             "books",
-            "power-of-words",
+            "knowledge",
             "reading"
         ]
     },
@@ -953,9 +956,9 @@ quotes = [
         "id": 83,
         "author_id": 2,
         "quote": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
-        "tags": "dumbledore,",
+        "tags": "spirituality,",
         "tags_array": [
-            "dumbledore"
+            "spirituality"
         ]
     },
     {
@@ -973,9 +976,10 @@ quotes = [
         "id": 85,
         "author_id": 2,
         "quote": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all\u2014in which case, you fail by default.",
-        "tags": "",
+        "tags": "life, inspiration",
         "tags_array": [
-            ""
+            "life",
+            "inspiration"
         ]
     },
     {
@@ -997,9 +1001,9 @@ quotes = [
         "id": 87,
         "author_id": 217,
         "quote": "If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.",
-        "tags": "attributed-no-source, children, fairy-tales,",
+        "tags": "knowledge, children, fairy-tales,",
         "tags_array": [
-            "attributed-no-source",
+            "knowledge",
             "children",
             "fairy-tales"
         ]
@@ -1022,19 +1026,19 @@ quotes = [
         "id": 89,
         "author_id": 217,
         "quote": "Logic will get you from A to Z; imagination will get you everywhere.",
-        "tags": "attributed-no-source, imagination,",
+        "tags": "knowledge, motivation,",
         "tags_array": [
-            "attributed-no-source",
-            "imagination"
+            "knowledge",
+            "motivation"
         ]
     },
     {
         "id": 90,
         "author_id": 29,
         "quote": "Have you fallen in love with the wrong person yet?'Jace said, \"Unfortunately, Lady of the Haven, my one true love remains myself.\"...\"At least,\" she said, \"you don't have to worry about rejection, Jace Wayland.\"\"Not necessarily. I turn myself down occasionally, just to keep it interesting.",
-        "tags": "city-of-bones, jace,",
+        "tags": "love, jace,",
         "tags_array": [
-            "city-of-bones",
+            "love",
             "jace"
         ]
     },
@@ -1070,18 +1074,18 @@ quotes = [
         "id": 94,
         "author_id": 232,
         "quote": "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.",
-        "tags": "friendship,",
+        "tags": "truth,",
         "tags_array": [
-            "friendship"
+            "truth"
         ]
     },
     {
         "id": 95,
         "author_id": 10,
         "quote": "You don't get to choose if you get hurt in this world...but you do have some say in who hurts you. I like my choices.",
-        "tags": "satisfaction, self-determination,",
+        "tags": "live, self-determination,",
         "tags_array": [
-            "satisfaction",
+            "live",
             "self-determination"
         ]
     },
@@ -1089,11 +1093,11 @@ quotes = [
         "id": 96,
         "author_id": 52,
         "quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
-        "tags": "learning, reading, seuss,",
+        "tags": "learning, reading, knowledge,",
         "tags_array": [
             "learning",
             "reading",
-            "seuss"
+            "knowledge"
         ]
     },
     {
@@ -1110,20 +1114,20 @@ quotes = [
         "id": 98,
         "author_id": 87,
         "quote": "There is no friend as loyal as a book.",
-        "tags": "books, friends, novelist-quotes,",
+        "tags": "books, friends, knowledge,",
         "tags_array": [
             "books",
             "friends",
-            "novelist-quotes"
+            "knowledge"
         ]
     },
     {
         "id": 99,
         "author_id": 232,
         "quote": "One good thing about music, when it hits you, you feel no pain.",
-        "tags": "music,",
+        "tags": "inspiration,",
         "tags_array": [
-            "music"
+            "inspiration"
         ]
     },
     {
@@ -1175,10 +1179,10 @@ quotes = [
         "id": 104,
         "author_id": 246,
         "quote": "Not all of us can do great things. But we can do small things with great love.",
-        "tags": "misattributed-to-mother-teresa, paraphrased,",
+        "tags": "misattributed-to-mother-teresa, love,",
         "tags_array": [
             "misattributed-to-mother-teresa",
-            "paraphrased"
+            "love"
         ]
     },
     {
@@ -1282,9 +1286,9 @@ quotes = [
         "id": 114,
         "author_id": 2,
         "quote": "It matters not what someone is born, but what they grow to be.",
-        "tags": "dumbledore,",
+        "tags": "life,",
         "tags_array": [
-            "dumbledore"
+            "life"
         ]
     },
     {
@@ -1314,9 +1318,9 @@ quotes = [
         "id": 117,
         "author_id": 259,
         "quote": "The difference between genius and stupidity is: genius has its limits.",
-        "tags": "misattributed-to-einstein,",
+        "tags": "knowledge,",
         "tags_array": [
-            "misattributed-to-einstein"
+            "knowledge"
         ]
     },
     {
@@ -1344,30 +1348,30 @@ quotes = [
         "id": 120,
         "author_id": 13,
         "quote": "It is what you read when you don't have to that determines what you will be when you can't help it.",
-        "tags": "books, reading,",
+        "tags": "books, knowledge,",
         "tags_array": [
             "books",
-            "reading"
+            "knowledge"
         ]
     },
     {
         "id": 121,
         "author_id": 261,
         "quote": "You don\u2019t have a soul, Doctor. You are a soul. You have a body, temporarily.",
-        "tags": "body-soul, misattributed-to-c-s-lewis,",
+        "tags": "body-soul, life,",
         "tags_array": [
             "body-soul",
-            "misattributed-to-c-s-lewis"
+            "life"
         ]
     },
     {
         "id": 122,
         "author_id": 8,
         "quote": "Not all those who wander are lost.",
-        "tags": "bilbo, journey, lost, quest, travel, wander,",
+        "tags": "motivational, faith, lost, quest, travel, wander,",
         "tags_array": [
-            "bilbo",
-            "journey",
+            "motivational",
+            "faith",
             "lost",
             "quest",
             "travel",
@@ -1388,9 +1392,9 @@ quotes = [
         "id": 124,
         "author_id": 263,
         "quote": "I would venture to guess that Anon, who wrote so many poems without signing them, was often a woman.",
-        "tags": "women,",
+        "tags": "romance,",
         "tags_array": [
-            "women"
+            "romance"
         ]
     },
     {
@@ -1421,9 +1425,9 @@ quotes = [
         "id": 127,
         "author_id": 29,
         "quote": "One must always be careful of books,\" said Tessa, \"and what is inside them, for words have the power to change us.",
-        "tags": "books,",
+        "tags": "knowledge,",
         "tags_array": [
-            "books"
+            "knowledge"
         ]
     },
     {
@@ -1525,10 +1529,10 @@ quotes = [
         "id": 137,
         "author_id": 3,
         "quote": "I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.",
-        "tags": "books, library, reading,",
+        "tags": "books, knowledge, reading,",
         "tags_array": [
             "books",
-            "library",
+            "knowledge",
             "reading"
         ]
     },
@@ -1536,10 +1540,10 @@ quotes = [
         "id": 138,
         "author_id": 90,
         "quote": "Piglet sidled up to Pooh from behind. \"Pooh!\" he whispered.\"Yes, Piglet?\"\"Nothing,\" said Piglet, taking Pooh's paw. \"I just wanted to be sure of you.",
-        "tags": "friendship, piglet, pooh, reassurance,",
+        "tags": "friendship, inspiration, pooh, reassurance,",
         "tags_array": [
             "friendship",
-            "piglet",
+            "inspiration",
             "pooh",
             "reassurance"
         ]
@@ -1608,9 +1612,10 @@ quotes = [
         "id": 143,
         "author_id": 2,
         "quote": "Do not pity the dead, Harry. Pity the living, and, above all those who live without love.",
-        "tags": "live-death-love,",
+        "tags": "life, love,",
         "tags_array": [
-            "live-death-love"
+            "life",
+            "love"
         ]
     },
     {
@@ -1626,9 +1631,9 @@ quotes = [
         "id": 145,
         "author_id": 233,
         "quote": "A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.",
-        "tags": "attributed-no-source,",
+        "tags": "love,",
         "tags_array": [
-            "attributed-no-source"
+            "love"
         ]
     },
     {
@@ -1657,10 +1662,10 @@ quotes = [
         "id": 148,
         "author_id": 13,
         "quote": "The books that the world calls immoral are books that show the world its own shame.",
-        "tags": "books, morality, reading,",
+        "tags": "books, knowledge, reading,",
         "tags_array": [
             "books",
-            "morality",
+            "knowledge",
             "reading"
         ]
     },
@@ -1684,10 +1689,10 @@ quotes = [
         "id": 150,
         "author_id": 48,
         "quote": "\u2032Classic\u2032 - a book which people praise and don't read.",
-        "tags": "books, classic, reading,",
+        "tags": "books, knowledge, reading,",
         "tags_array": [
             "books",
-            "classic",
+            "knowledge",
             "reading"
         ]
     },
@@ -1695,9 +1700,9 @@ quotes = [
         "id": 151,
         "author_id": 233,
         "quote": "I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.",
-        "tags": "attributed-no-source,",
+        "tags": "inspiration,",
         "tags_array": [
-            "attributed-no-source"
+            "inspiration"
         ]
     },
     {
@@ -1722,9 +1727,9 @@ quotes = [
         "id": 153,
         "author_id": 1,
         "quote": "You don\u2019t forget the face of the person who was your last hope.",
-        "tags": "the-hunger-games,",
+        "tags": "inspiration,",
         "tags_array": [
-            "the-hunger-games"
+            "inspiration"
         ]
     },
     {
@@ -1762,9 +1767,9 @@ quotes = [
         "id": 157,
         "author_id": 48,
         "quote": "I have never let my schooling interfere with my education.",
-        "tags": "attributed-no-source, education,",
+        "tags": "knowledge, education,",
         "tags_array": [
-            "attributed-no-source",
+            "knowledge",
             "education"
         ]
     },
@@ -1772,19 +1777,19 @@ quotes = [
         "id": 158,
         "author_id": 4,
         "quote": "You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.",
-        "tags": "better-life-empathy,",
+        "tags": "life,",
         "tags_array": [
-            "better-life-empathy"
+            "life"
         ]
     },
     {
         "id": 159,
         "author_id": 10,
         "quote": "The marks humans leave are too often scars.",
-        "tags": "humans, pain, scars,",
+        "tags": "humans, life, scars,",
         "tags_array": [
             "humans",
-            "pain",
+            "life",
             "scars"
         ]
     },
@@ -1813,11 +1818,11 @@ quotes = [
         "id": 162,
         "author_id": 9,
         "quote": "Some day you will be old enough to start reading fairy tales again.",
-        "tags": "age, fairytales, growing-up,",
+        "tags": "age, fairytales, inspiration,",
         "tags_array": [
             "age",
             "fairytales",
-            "growing-up"
+            "inspiration"
         ]
     },
     {
@@ -1860,9 +1865,9 @@ quotes = [
         "id": 166,
         "author_id": 217,
         "quote": "Anyone who has never made a mistake has never tried anything new.",
-        "tags": "attributed-no-source, mistakes,",
+        "tags": "motivational, mistakes,",
         "tags_array": [
-            "attributed-no-source",
+            "motivational",
             "mistakes"
         ]
     },
@@ -1870,29 +1875,29 @@ quotes = [
         "id": 167,
         "author_id": 16,
         "quote": "And in that moment, I swear we were infinite.",
-        "tags": "infinity,",
+        "tags": "success,",
         "tags_array": [
-            "infinity"
+            "success"
         ]
     },
     {
         "id": 168,
         "author_id": 10,
         "quote": "What a slut time is. She screws everybody.",
-        "tags": "",
+        "tags": "life",
         "tags_array": [
-            ""
+            "life"
         ]
     },
     {
         "id": 169,
         "author_id": 61,
         "quote": "Books are a uniquely portable magic.",
-        "tags": "books, magic, reading,",
+        "tags": "books, magic, knowledge,",
         "tags_array": [
             "books",
             "magic",
-            "reading"
+            "knowledge"
         ]
     },
     {
@@ -1966,19 +1971,19 @@ quotes = [
         "id": 176,
         "author_id": 10,
         "quote": "Books are the ultimate Dumpees: put them down and they\u2019ll wait for you forever; pay attention to them and they always love you back.",
-        "tags": "books, reading,",
+        "tags": "books, knowledge,",
         "tags_array": [
             "books",
-            "reading"
+            "knowledge"
         ]
     },
     {
         "id": 177,
         "author_id": 23,
         "quote": "We believe in ordinary acts of bravery, in the courage that drives one person to stand up for another.",
-        "tags": "inspirational-quotes, strength-and-courage,",
+        "tags": "inspirational, strength-and-courage,",
         "tags_array": [
-            "inspirational-quotes",
+            "inspirational",
             "strength-and-courage"
         ]
     },
@@ -1986,19 +1991,19 @@ quotes = [
         "id": 178,
         "author_id": 43,
         "quote": "... a mind needs books as a sword needs a whetstone, if it is to keep its edge.",
-        "tags": "books, mind,",
+        "tags": "books, knowledge,",
         "tags_array": [
             "books",
-            "mind"
+            "knowledge"
         ]
     },
     {
         "id": 179,
         "author_id": 88,
         "quote": "[Dean] My dear fellow, who will let you?[Roark] That\u2019s not the point. The point is, who will stop me?",
-        "tags": "",
+        "tags": "inspiration",
         "tags_array": [
-            ""
+            "inspiration"
         ]
     },
     {
@@ -2015,9 +2020,9 @@ quotes = [
         "id": 181,
         "author_id": 10,
         "quote": "There are infinite numbers between 0 and 1. There's .1 and .12 and .112 and an infinite collection of others. Of course, there is a bigger infinite set of numbers between 0 and 2, or between 0 and a million. Some infinities are bigger than other infinities. A writer we used to like taught us that. There are days, many of them, when I resent the size of my unbounded set. I want more numbers than I'm likely to get, and God, I want more numbers for Augustus Waters than he got. But, Gus, my love, I cannot tell you how thankful I am for our little infinity. I wouldn't trade it for the world. You gave me a forever within the numbered days, and I'm grateful.",
-        "tags": "infinity,",
+        "tags": "motivational,",
         "tags_array": [
-            "infinity"
+            "motivational"
         ]
     },
     {
@@ -2045,9 +2050,9 @@ quotes = [
         "id": 184,
         "author_id": 191,
         "quote": "Memories warm you up from the inside. But they also tear you apart.",
-        "tags": "memories,",
+        "tags": "motivational,",
         "tags_array": [
-            "memories"
+            "motivational"
         ]
     },
     {
@@ -2064,9 +2069,9 @@ quotes = [
         "id": 186,
         "author_id": 2,
         "quote": "Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.",
-        "tags": "integrity,",
+        "tags": "motivational,",
         "tags_array": [
-            "integrity"
+            "motivational"
         ]
     },
     {
@@ -2171,9 +2176,9 @@ quotes = [
         "id": 196,
         "author_id": 27,
         "quote": "Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them.",
-        "tags": "greatness,",
+        "tags": "motivational,",
         "tags_array": [
-            "greatness"
+            "motivational"
         ]
     },
     {
@@ -2259,40 +2264,40 @@ quotes = [
         "id": 205,
         "author_id": 13,
         "quote": "Yes: I am a dreamer. For a dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world.",
-        "tags": "dreaming, dreams, imagination,",
+        "tags": "dreaming, inspiration, motivational,",
         "tags_array": [
             "dreaming",
-            "dreams",
-            "imagination"
+            "inspiration",
+            "motivational"
         ]
     },
     {
         "id": 206,
         "author_id": 10,
         "quote": "Thomas Edison's last words were \"It's very beautiful over there\". I don't know where there is, but I believe it's somewhere, and I hope it's beautiful.",
-        "tags": "",
+        "tags": "life",
         "tags_array": [
-            ""
+            "life"
         ]
     },
     {
         "id": 207,
         "author_id": 13,
         "quote": "You can never be overdressed or overeducated.",
-        "tags": "education, fashion,",
+        "tags": "education, knowledge,",
         "tags_array": [
             "education",
-            "fashion"
+            "knowledge"
         ]
     },
     {
         "id": 208,
         "author_id": 83,
         "quote": "I became insane, with long intervals of horrible sanity.",
-        "tags": "insanity, sanity,",
+        "tags": "insanity, writing,",
         "tags_array": [
             "insanity",
-            "sanity"
+            "writing"
         ]
     },
     {
@@ -2324,51 +2329,51 @@ quotes = [
         "id": 211,
         "author_id": 10,
         "quote": "When adults say, \"Teenagers think they are invincible\" with that sly, stupid smile on their faces, they don't know how right they are. We need never be hopeless, because we can never be irreparably broken. We think that we are invincible because we are. We cannot be born, and we cannot die. Like all energy, we can only change shapes and sizes and manifestations. They forget that when they get old. They get scared of losing and failing. But that part of us greater than the sum of our parts cannot begin and cannot end, and so it cannot fail.",
-        "tags": "invincible, teenagers, teens,",
+        "tags": "invincible, teenagers, inspiration,",
         "tags_array": [
             "invincible",
             "teenagers",
-            "teens"
+            "inspiration"
         ]
     },
     {
         "id": 212,
         "author_id": 10,
         "quote": "Oh, I wouldn't mind, Hazel Grace. It would be a privilege to have my heart broken by you.",
-        "tags": "augustus-waters, hazel, heartbreak, privilege,",
+        "tags": "augustus-waters, hazel, heartbreak, inspiration,",
         "tags_array": [
             "augustus-waters",
             "hazel",
             "heartbreak",
-            "privilege"
+            "inspiration"
         ]
     },
     {
         "id": 213,
         "author_id": 2,
         "quote": "Numbing the pain for a while will make it worse when you finally feel it.",
-        "tags": "pain,",
+        "tags": "inspiration,",
         "tags_array": [
-            "pain"
+            "inspiration"
         ]
     },
     {
         "id": 214,
         "author_id": 89,
         "quote": "I finally understood what true love meant...love meant that you care for another person's happiness more than your own, no matter how painful the choices you face might be.",
-        "tags": "dear-john, nicholas-sparks,",
+        "tags": "dear-john, love,",
         "tags_array": [
             "dear-john",
-            "nicholas-sparks"
+            "love"
         ]
     },
     {
         "id": 215,
         "author_id": 229,
         "quote": "It is one of the blessings of old friends that you can afford to be stupid with them.",
-        "tags": "friends,",
+        "tags": "relationships,",
         "tags_array": [
-            "friends"
+            "relationships"
         ]
     },
     {
@@ -2396,10 +2401,10 @@ quotes = [
         "id": 218,
         "author_id": 278,
         "quote": "Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers.",
-        "tags": "books, friends, reading, teachers,",
+        "tags": "books, relationships, reading, teachers,",
         "tags_array": [
             "books",
-            "friends",
+            "relationships",
             "reading",
             "teachers"
         ]
@@ -2421,9 +2426,9 @@ quotes = [
         "id": 220,
         "author_id": 2,
         "quote": "Just because you have the emotional range of a teaspoon doesn't mean we all have.",
-        "tags": "hermione,",
+        "tags": "motivational,",
         "tags_array": [
-            "hermione"
+            "motivational"
         ]
     },
     {
@@ -2440,11 +2445,11 @@ quotes = [
         "id": 222,
         "author_id": 223,
         "quote": "An eye for an eye will only make the whole world blind.",
-        "tags": "attributed-no-source, conflict, fighting, peace, revenge, trial, violence,",
+        "tags": "motivational, life, death, peace, revenge, trial, violence,",
         "tags_array": [
-            "attributed-no-source",
-            "conflict",
-            "fighting",
+            "motivational",
+            "life",
+            "death",
             "peace",
             "revenge",
             "trial",
@@ -2477,18 +2482,18 @@ quotes = [
         "id": 225,
         "author_id": 4,
         "quote": "Until I feared I would lose it, I never loved to read. One does not love breathing.",
-        "tags": "reading,",
+        "tags": "knowledge,",
         "tags_array": [
-            "reading"
+            "knowledge"
         ]
     },
     {
         "id": 226,
         "author_id": 15,
         "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
-        "tags": "character, empowerment, flaws, freedom, gender, identity, image, independence, integrity, realism, self-awareness, self-determination, women,",
+        "tags": "inspiration, empowerment, flaws, freedom, gender, identity, image, independence, integrity, realism, self-awareness, self-determination, women,",
         "tags_array": [
-            "character",
+            "inspiration",
             "empowerment",
             "flaws",
             "freedom",
@@ -2507,9 +2512,9 @@ quotes = [
         "id": 227,
         "author_id": 233,
         "quote": "If you're gonna be two-faced at least make one of them pretty.",
-        "tags": "attributed-no-source,",
+        "tags": "truth,",
         "tags_array": [
-            "attributed-no-source"
+            "truth"
         ]
     },
     {
@@ -2526,39 +2531,39 @@ quotes = [
         "id": 229,
         "author_id": 256,
         "quote": "I would rather walk with a friend in the dark, than alone in the light.",
-        "tags": "friendship,",
+        "tags": "relationships,",
         "tags_array": [
-            "friendship"
+            "relationships"
         ]
     },
     {
         "id": 230,
         "author_id": 257,
         "quote": "Do you hate people?I don't hate them...I just feel better when they're not around.",
-        "tags": "humour, misanthropy, paraphrased,",
+        "tags": "humour, misanthropy, relationships,",
         "tags_array": [
             "humour",
             "misanthropy",
-            "paraphrased"
+            "relationships"
         ]
     },
     {
         "id": 231,
         "author_id": 281,
         "quote": "A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading.",
-        "tags": "books, reading,",
+        "tags": "books, knowledge,",
         "tags_array": [
             "books",
-            "reading"
+            "knowledge"
         ]
     },
     {
         "id": 232,
         "author_id": 10,
         "quote": "So I walked back to my room and collapsed on the bottom bunk, thinking that if people were rain, I was drizzle and she was a hurricane.",
-        "tags": "johngreen, lookingforalaska,",
+        "tags": "life, lookingforalaska,",
         "tags_array": [
-            "johngreen",
+            "life",
             "lookingforalaska"
         ]
     },
@@ -2591,10 +2596,10 @@ quotes = [
         "id": 235,
         "author_id": 9,
         "quote": "A children's story that can only be enjoyed by children is not a good children's story in the slightest.",
-        "tags": "books, children-s-books, reading,",
+        "tags": "books, knowledge, reading,",
         "tags_array": [
             "books",
-            "children-s-books",
+            "knowledge",
             "reading"
         ]
     },
@@ -2635,30 +2640,30 @@ quotes = [
         "id": 239,
         "author_id": 29,
         "quote": "Is this the part where you start tearing off strips of your shirt to bind my wounds?\"\"If you wanted me to rip my clothes off, you should have just asked.",
-        "tags": "clary, clothes, jace, wounds,",
+        "tags": "clary, clothes, jace, relationships,",
         "tags_array": [
             "clary",
             "clothes",
             "jace",
-            "wounds"
+            "relationships"
         ]
     },
     {
         "id": 240,
         "author_id": 22,
         "quote": "With great power... comes great need to take a nap. Wake me up later.",
-        "tags": "nico,",
+        "tags": "motivational,",
         "tags_array": [
-            "nico"
+            "motivational"
         ]
     },
     {
         "id": 241,
         "author_id": 43,
         "quote": "Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you.",
-        "tags": "identity,",
+        "tags": "inspiration,",
         "tags_array": [
-            "identity"
+            "inspiration"
         ]
     },
     {
@@ -2676,9 +2681,9 @@ quotes = [
         "id": 243,
         "author_id": 1,
         "quote": "I wish I could freeze this moment, right here, right now and live in it forever.",
-        "tags": "peeta,",
+        "tags": "inspiration,",
         "tags_array": [
-            "peeta"
+            "inspiration"
         ]
     },
     {
@@ -2715,18 +2720,18 @@ quotes = [
         "id": 247,
         "author_id": 48,
         "quote": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.",
-        "tags": "greatness,",
+        "tags": "inspiration,",
         "tags_array": [
-            "greatness"
+            "inspiration"
         ]
     },
     {
         "id": 248,
         "author_id": 247,
         "quote": "Life is an awful, ugly place to not have a best friend.",
-        "tags": "friendship,",
+        "tags": "relationships,",
         "tags_array": [
-            "friendship"
+            "relationships"
         ]
     },
     {
@@ -2771,9 +2776,9 @@ quotes = [
         "id": 252,
         "author_id": 139,
         "quote": "Being a woman is a terribly difficult trade since it consists principally of dealings with men.",
-        "tags": "women,",
+        "tags": "inspiration,",
         "tags_array": [
-            "women"
+            "inspiration"
         ]
     },
     {
@@ -2810,10 +2815,10 @@ quotes = [
         "id": 256,
         "author_id": 74,
         "quote": "Everyone thinks of changing the world, but no one thinks of changing himself.",
-        "tags": "change, tolstoy,",
+        "tags": "change, inspiration,",
         "tags_array": [
             "change",
-            "tolstoy"
+            "inspiration"
         ]
     },
     {
@@ -2830,12 +2835,12 @@ quotes = [
         "id": 258,
         "author_id": 8,
         "quote": "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.",
-        "tags": "family, friends, parties, social,",
+        "tags": "family, friends, parties, relationships,",
         "tags_array": [
             "family",
             "friends",
             "parties",
-            "social"
+            "relationships"
         ]
     },
     {
@@ -2852,19 +2857,19 @@ quotes = [
         "id": 260,
         "author_id": 10,
         "quote": "The world is not a wish-granting factory.",
-        "tags": "",
+        "tags": "wisdom",
         "tags_array": [
-            ""
+            "wisdom"
         ]
     },
     {
         "id": 261,
         "author_id": 64,
         "quote": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places. Those who don't believe in magic will never find it.",
-        "tags": "believe, glittering-eyes, hidden, magic, secrets, unlikely-places, watch, world,",
+        "tags": "believe, inspiration, hidden, magic, secrets, unlikely-places, watch, world,",
         "tags_array": [
             "believe",
-            "glittering-eyes",
+            "inspiration",
             "hidden",
             "magic",
             "secrets",
@@ -2918,27 +2923,27 @@ quotes = [
         "id": 265,
         "author_id": 288,
         "quote": "It's the friends you can call up at 4 a.m. that matter.",
-        "tags": "attributed-no-source,",
+        "tags": "relationships,",
         "tags_array": [
-            "attributed-no-source"
+            "relationships"
         ]
     },
     {
         "id": 266,
         "author_id": 16,
         "quote": "There's nothing like deep breaths after laughing that hard. Nothing in the world like a sore stomach for the right reasons.",
-        "tags": "happiness,",
+        "tags": "life,",
         "tags_array": [
-            "happiness"
+            "life"
         ]
     },
     {
         "id": 267,
         "author_id": 23,
         "quote": "Becoming fearless isn't the point. That's impossible. It's learning how to control your fear, and how to be free from it.",
-        "tags": "dauntless, divergent, fearless, four, tris,",
+        "tags": "inspiration, divergent, fearless, four, tris,",
         "tags_array": [
-            "dauntless",
+            "inspiration",
             "divergent",
             "fearless",
             "four",
@@ -2949,28 +2954,28 @@ quotes = [
         "id": 268,
         "author_id": 233,
         "quote": "It's far better to be unhappy alone than unhappy with someone \u2014 so far.",
-        "tags": "alone, attributed-no-source,",
+        "tags": "relationships, inspiration,",
         "tags_array": [
-            "alone",
-            "attributed-no-source"
+            "relationships",
+            "inspiration"
         ]
     },
     {
         "id": 269,
         "author_id": 89,
         "quote": "Sometimes you have to be apart from people you love, but that doesn't make you love them any less. Sometimes you love them more.",
-        "tags": "",
+        "tags": "love",
         "tags_array": [
-            ""
+            "love"
         ]
     },
     {
         "id": 270,
         "author_id": 73,
         "quote": "Let me tell you this: if you meet a loner, no matter what they tell you, it's not because they enjoy solitude. It's because they have tried to blend into the world before, and people continue to disappoint them.",
-        "tags": "disappointment, loneliness, loner, solitude,",
+        "tags": "inspiration, loneliness, loner, solitude,",
         "tags_array": [
-            "disappointment",
+            "inspiration",
             "loneliness",
             "loner",
             "solitude"
